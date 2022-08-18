@@ -40,7 +40,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/1"
   },
   {
     "sourceSheet": "Music",
@@ -83,7 +84,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/2"
   },
   {
     "sourceSheet": "Music",
@@ -124,7 +126,8 @@
       "plural": false
     },
     "colors": [ "Brown" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/3"
   },
   {
     "sourceSheet": "Music",
@@ -167,7 +170,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/4"
   },
   {
     "sourceSheet": "Music",
@@ -210,7 +214,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/5"
   },
   {
     "sourceSheet": "Music",
@@ -253,7 +258,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Chillwave.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -296,7 +302,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/6"
   },
   {
     "sourceSheet": "Music",
@@ -339,7 +346,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/7"
   },
   {
     "sourceSheet": "Music",
@@ -380,7 +388,8 @@
       "plural": false
     },
     "colors": [ "Brown" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/8"
   },
   {
     "sourceSheet": "Music",
@@ -421,7 +430,8 @@
       "plural": false
     },
     "colors": [ "Brown" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/9"
   },
   {
     "sourceSheet": "Music",
@@ -464,7 +474,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Yellow" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/10"
   },
   {
     "sourceSheet": "Music",
@@ -507,7 +518,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/11"
   },
   {
     "sourceSheet": "Music",
@@ -550,7 +562,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/12"
   },
   {
     "sourceSheet": "Music",
@@ -593,7 +606,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/13"
   },
   {
     "sourceSheet": "Music",
@@ -636,7 +650,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/14"
   },
   {
     "sourceSheet": "Music",
@@ -679,7 +694,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/15"
   },
   {
     "sourceSheet": "Music",
@@ -722,7 +738,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Blue" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/16"
   },
   {
     "sourceSheet": "Music",
@@ -765,7 +782,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/17"
   },
   {
     "sourceSheet": "Music",
@@ -808,7 +826,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Bashment.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -851,7 +870,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/18"
   },
   {
     "sourceSheet": "Music",
@@ -892,7 +912,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/19"
   },
   {
     "sourceSheet": "Music",
@@ -935,7 +956,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/20"
   },
   {
     "sourceSheet": "Music",
@@ -978,7 +1000,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/21"
   },
   {
     "sourceSheet": "Music",
@@ -1021,7 +1044,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Purple" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Break.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1064,7 +1088,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/22"
   },
   {
     "sourceSheet": "Music",
@@ -1107,7 +1132,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/23"
   },
   {
     "sourceSheet": "Music",
@@ -1150,7 +1176,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/24"
   },
   {
     "sourceSheet": "Music",
@@ -1193,7 +1220,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Chorinho.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1236,7 +1264,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/25"
   },
   {
     "sourceSheet": "Music",
@@ -1279,7 +1308,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/26"
   },
   {
     "sourceSheet": "Music",
@@ -1322,7 +1352,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/27"
   },
   {
     "sourceSheet": "Music",
@@ -1365,7 +1396,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/28"
   },
   {
     "sourceSheet": "Music",
@@ -1408,7 +1440,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/29"
   },
   {
     "sourceSheet": "Music",
@@ -1451,7 +1484,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/30"
   },
   {
     "sourceSheet": "Music",
@@ -1494,7 +1528,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/31"
   },
   {
     "sourceSheet": "Music",
@@ -1537,7 +1572,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Dub.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1580,7 +1616,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/33"
   },
   {
     "sourceSheet": "Music",
@@ -1623,7 +1660,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/34"
   },
   {
     "sourceSheet": "Music",
@@ -1666,7 +1704,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/35"
   },
   {
     "sourceSheet": "Music",
@@ -1709,7 +1748,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Fugue.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1752,7 +1792,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/36"
   },
   {
     "sourceSheet": "Music",
@@ -1795,7 +1836,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Blue" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/37"
   },
   {
     "sourceSheet": "Music",
@@ -1838,7 +1880,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/38"
   },
   {
     "sourceSheet": "Music",
@@ -1881,7 +1924,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Yellow" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Hop.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1924,7 +1968,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/39"
   },
   {
     "sourceSheet": "Music",
@@ -1967,7 +2012,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/40"
   },
   {
     "sourceSheet": "Music",
@@ -2010,7 +2056,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/41"
   },
   {
     "sourceSheet": "Music",
@@ -2053,7 +2100,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/42"
   },
   {
     "sourceSheet": "Music",
@@ -2096,7 +2144,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Khoomei.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2139,7 +2188,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Gray" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/43"
   },
   {
     "sourceSheet": "Music",
@@ -2182,7 +2232,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/44"
   },
   {
     "sourceSheet": "Music",
@@ -2225,7 +2276,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Lovers.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2268,7 +2320,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Green" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/45"
   },
   {
     "sourceSheet": "Music",
@@ -2311,7 +2364,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/46"
   },
   {
     "sourceSheet": "Music",
@@ -2354,7 +2408,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/47"
   },
   {
     "sourceSheet": "Music",
@@ -2397,7 +2452,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/48"
   },
   {
     "sourceSheet": "Music",
@@ -2440,7 +2496,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/49"
   },
   {
     "sourceSheet": "Music",
@@ -2483,7 +2540,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Purple" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/50"
   },
   {
     "sourceSheet": "Music",
@@ -2526,7 +2584,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/51"
   },
   {
     "sourceSheet": "Music",
@@ -2569,7 +2628,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/52"
   },
   {
     "sourceSheet": "Music",
@@ -2612,7 +2672,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/53"
   },
   {
     "sourceSheet": "Music",
@@ -2655,7 +2716,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/54"
   },
   {
     "sourceSheet": "Music",
@@ -2698,7 +2760,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Green" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Polka.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2741,7 +2804,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Gray" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/55"
   },
   {
     "sourceSheet": "Music",
@@ -2784,7 +2848,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/56"
   },
   {
     "sourceSheet": "Music",
@@ -2827,7 +2892,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/57"
   },
   {
     "sourceSheet": "Music",
@@ -2870,7 +2936,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_RobotSynth.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2913,7 +2980,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/58"
   },
   {
     "sourceSheet": "Music",
@@ -2956,7 +3024,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/59"
   },
   {
     "sourceSheet": "Music",
@@ -2999,7 +3068,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/60"
   },
   {
     "sourceSheet": "Music",
@@ -3042,7 +3112,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/61"
   },
   {
     "sourceSheet": "Music",
@@ -3085,7 +3156,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/62"
   },
   {
     "sourceSheet": "Music",
@@ -3128,7 +3200,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/63"
   },
   {
     "sourceSheet": "Music",
@@ -3171,7 +3244,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_SlackKey.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3214,7 +3288,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/64"
   },
   {
     "sourceSheet": "Music",
@@ -3257,7 +3332,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/65"
   },
   {
     "sourceSheet": "Music",
@@ -3300,7 +3376,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/66"
   },
   {
     "sourceSheet": "Music",
@@ -3343,7 +3420,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Colorful" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/67"
   },
   {
     "sourceSheet": "Music",
@@ -3386,7 +3464,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/68"
   },
   {
     "sourceSheet": "Music",
@@ -3429,7 +3508,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/69"
   },
   {
     "sourceSheet": "Music",
@@ -3472,7 +3552,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/70"
   },
   {
     "sourceSheet": "Music",
@@ -3515,7 +3596,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/71"
   },
   {
     "sourceSheet": "Music",
@@ -3558,7 +3640,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/72"
   },
   {
     "sourceSheet": "Music",
@@ -3601,7 +3684,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Red" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/73"
   },
   {
     "sourceSheet": "Music",
@@ -3644,7 +3728,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Gray" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/74"
   },
   {
     "sourceSheet": "Music",
@@ -3687,7 +3772,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/32"
   },
   {
     "sourceSheet": "Music",
@@ -3730,7 +3816,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Yellow" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/75"
   },
   {
     "sourceSheet": "Music",
@@ -3773,7 +3860,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/76"
   },
   {
     "sourceSheet": "Music",
@@ -3816,7 +3904,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/77"
   },
   {
     "sourceSheet": "Music",
@@ -3859,7 +3948,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/78"
   },
   {
     "sourceSheet": "Music",
@@ -3902,7 +3992,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/79"
   },
   {
     "sourceSheet": "Music",
@@ -3945,7 +4036,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Green" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/80"
   },
   {
     "sourceSheet": "Music",
@@ -3988,7 +4080,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/81"
   },
   {
     "sourceSheet": "Music",
@@ -4031,7 +4124,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Gray" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/82"
   },
   {
     "sourceSheet": "Music",
@@ -4074,7 +4168,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/83"
   },
   {
     "sourceSheet": "Music",
@@ -4117,7 +4212,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/84"
   },
   {
     "sourceSheet": "Music",
@@ -4160,7 +4256,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/85"
   },
   {
     "sourceSheet": "Music",
@@ -4203,7 +4300,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/86"
   },
   {
     "sourceSheet": "Music",
@@ -4246,7 +4344,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/87"
   },
   {
     "sourceSheet": "Music",
@@ -4289,7 +4388,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Blue" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/88"
   },
   {
     "sourceSheet": "Music",
@@ -4332,7 +4432,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/89"
   },
   {
     "sourceSheet": "Music",
@@ -4375,7 +4476,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Blue" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/90"
   },
   {
     "sourceSheet": "Music",
@@ -4418,7 +4520,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/91"
   },
   {
     "sourceSheet": "Music",
@@ -4461,7 +4564,8 @@
       "plural": false
     },
     "colors": [ "Brown", "White" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/92"
   },
   {
     "sourceSheet": "Music",
@@ -4504,7 +4608,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Black" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/93"
   },
   {
     "sourceSheet": "Music",
@@ -4547,7 +4652,8 @@
       "plural": false
     },
     "colors": [ "Brown", "Gray" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/94"
   },
   {
     "sourceSheet": "Music",
@@ -4588,6 +4694,7 @@
       "plural": false
     },
     "colors": [ "Brown" ],
-    "recipe": null
+    "recipe": null,
+    "musicURL": "https://acnhapi.com/v1/music/95"
   }
 ]
