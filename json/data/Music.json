@@ -41,7 +41,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/1"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Agent.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -85,7 +85,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/2"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Aloha.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -127,7 +127,7 @@
     },
     "colors": [ "Brown" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/3"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Animal_City.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -171,7 +171,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/4"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Bubblegum.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -215,7 +215,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/5"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Cafe.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -303,7 +303,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/6"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Comrade.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -347,7 +347,7 @@
     },
     "colors": [ "Brown", "Pink" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/7"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_DJ_K.K..mp3"
   },
   {
     "sourceSheet": "Music",
@@ -389,7 +389,7 @@
     },
     "colors": [ "Brown" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/8"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Drivin.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -431,7 +431,7 @@
     },
     "colors": [ "Brown" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/9"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Farewell.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -475,7 +475,7 @@
     },
     "colors": [ "Brown", "Yellow" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/10"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Forest_Life.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -519,7 +519,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/11"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Go_K.K._Rider.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -563,7 +563,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/12"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Hypno.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -607,7 +607,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/13"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_I_Love_You.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -651,7 +651,7 @@
     },
     "colors": [ "Brown", "Pink" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/14"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Imperial.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -695,7 +695,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/15"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Adventure.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -739,7 +739,7 @@
     },
     "colors": [ "Brown", "Blue" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/16"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Aria.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -783,7 +783,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/17"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Ballad.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -871,7 +871,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/18"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Bazaar.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -913,7 +913,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/19"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Birthday.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -957,7 +957,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/20"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Blues.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1001,7 +1001,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/21"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Bossa.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1089,7 +1089,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/22"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Calypso.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1133,7 +1133,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/23"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Casbah.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1177,7 +1177,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/24"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Chorale.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1265,7 +1265,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/25"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Condor.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1309,7 +1309,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/26"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Country.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1353,7 +1353,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/27"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Cruisin'.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1397,7 +1397,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/28"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_D&B.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1441,7 +1441,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/29"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Dirge.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1485,7 +1485,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/30"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Disco.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1529,7 +1529,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/31"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Dixie.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1617,7 +1617,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/33"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Faire.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1661,7 +1661,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/34"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Flamenco.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1705,7 +1705,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/35"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Folk.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1793,7 +1793,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/36"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Fusion.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1837,7 +1837,7 @@
     },
     "colors": [ "Brown", "Blue" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/37"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Groove.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1881,7 +1881,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/38"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Gumbo.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -1969,7 +1969,7 @@
     },
     "colors": [ "Brown", "Pink" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/39"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_House.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2013,7 +2013,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/40"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Island.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2057,7 +2057,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/41"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Jazz.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2101,7 +2101,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/42"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Jongara.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2189,7 +2189,7 @@
     },
     "colors": [ "Brown", "Gray" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/43"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Lament.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2233,7 +2233,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/44"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Love_Song.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2321,7 +2321,7 @@
     },
     "colors": [ "Brown", "Green" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/45"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Lullaby.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2365,7 +2365,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/46"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Mambo.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2409,7 +2409,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/47"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Marathon.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2453,7 +2453,7 @@
     },
     "colors": [ "Brown", "Pink" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/48"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_March.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2497,7 +2497,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/49"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Mariachi.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2541,7 +2541,7 @@
     },
     "colors": [ "Brown", "Purple" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/50"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Metal.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2585,7 +2585,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/51"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Milonga.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2629,7 +2629,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/52"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Moody.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2673,7 +2673,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/53"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Oasis.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2717,7 +2717,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/54"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Parade.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2805,7 +2805,7 @@
     },
     "colors": [ "Brown", "Gray" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/55"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Ragtime.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2849,7 +2849,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/56"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Rally.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2893,7 +2893,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/57"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Reggae.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -2981,7 +2981,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/58"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Rock.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3025,7 +3025,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/59"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Rockabilly.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3069,7 +3069,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/60"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Safari.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3113,7 +3113,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/61"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Salsa.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3157,7 +3157,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/62"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Samba.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3201,7 +3201,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/63"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Ska.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3289,7 +3289,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/64"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Sonata.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3333,7 +3333,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/65"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Song.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3377,7 +3377,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/66"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Soul.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3421,7 +3421,7 @@
     },
     "colors": [ "Brown", "Colorful" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/67"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Steppe.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3465,7 +3465,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/68"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Stroll.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3509,7 +3509,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/69"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Swing.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3553,7 +3553,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/70"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Synth.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3597,7 +3597,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/71"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Tango.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3641,7 +3641,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/72"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Technopop.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3685,7 +3685,7 @@
     },
     "colors": [ "Brown", "Red" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/73"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Waltz.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3729,7 +3729,7 @@
     },
     "colors": [ "Brown", "Gray" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/74"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Western.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3773,7 +3773,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/32"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Etude.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3817,7 +3817,7 @@
     },
     "colors": [ "Brown", "Yellow" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/75"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_King.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3861,7 +3861,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/76"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Lucky.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3905,7 +3905,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/77"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Marine_Song_2001.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3949,7 +3949,7 @@
     },
     "colors": [ "Brown", "Aqua" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/78"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Mountain_Song.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -3993,7 +3993,7 @@
     },
     "colors": [ "Brown", "Beige" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/79"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Sensei.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4037,7 +4037,7 @@
     },
     "colors": [ "Brown", "Green" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/80"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_My_Place.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4081,7 +4081,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/81"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Neapolitan.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4125,7 +4125,7 @@
     },
     "colors": [ "Brown", "Gray" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/82"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Only_Me.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4169,7 +4169,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/83"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Pondering.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4213,7 +4213,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/84"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Rockin'.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4257,7 +4257,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/85"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Soulful.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4301,7 +4301,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/86"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Space.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4345,7 +4345,7 @@
     },
     "colors": [ "Brown", "Pink" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/87"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Spring_Blossoms.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4389,7 +4389,7 @@
     },
     "colors": [ "Brown", "Blue" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/88"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Stale_Cupcakes.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4433,7 +4433,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/89"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Steep_Hill.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4477,7 +4477,7 @@
     },
     "colors": [ "Brown", "Blue" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/90"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Surfin'.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4521,7 +4521,7 @@
     },
     "colors": [ "Brown", "Orange" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/91"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_The_K._Funk.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4565,7 +4565,7 @@
     },
     "colors": [ "Brown", "White" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/92"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_To_the_Edge.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4609,7 +4609,7 @@
     },
     "colors": [ "Brown", "Black" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/93"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Two_Days_Ago.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4653,7 +4653,7 @@
     },
     "colors": [ "Brown", "Gray" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/94"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Wandering.mp3"
   },
   {
     "sourceSheet": "Music",
@@ -4695,6 +4695,6 @@
     },
     "colors": [ "Brown" ],
     "recipe": null,
-    "musicURL": "https://acnhapi.com/v1/music/95"
+    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Welcome_Horizons.mp3"
   }
 ]
