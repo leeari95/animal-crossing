@@ -122142,5 +122142,61 @@
       }
     ],
     "recipe": null
+  },
+  {
+    "sourceSheet": "Photos",
+    "name": "Paradise Planning photo",
+    "diy": false,
+    "kitCost": 1,
+    "size": "1x1",
+    "versionAdded": "2.0.0",
+    "catalog": null,
+    "bodyTitle": "Frame",
+    "buy": -1,
+    "sell": 10,
+    "customize": false,
+    "translations": {
+      "sourceSheet": "Photos",
+      "id": 14699,
+      "eUde": "FHA-Foto",
+      "eUen": "Paradise Planning photo",
+      "eUit": "foto della Casimira vacanze",
+      "eUnl": "resortplanbureaufoto",
+      "eUru": "фото курортного бюро",
+      "eUfr": "photo Les Villas de Lou",
+      "eUes": "foto plantilla Archipiélago",
+      "uSen": "Paradise Planning photo",
+      "uSfr": "photo Paradis sur mesure",
+      "uSes": "foto plantilla Archipiélago",
+      "jPja": "タクミライフスタッフのしゃしん",
+      "kRko": "파라다이스 플래닝 스태프 사진",
+      "tWzh": "巧美生活工作人员的照片",
+      "cNzh": "巧美生活工作人员的照片",
+      "plural": false
+    },
+    "source": [ "Nintendo" ],
+    "hhaBasePoints": 393,
+    "unlocked": true,
+    "variations": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrGroupPhotoTakumi.png",
+        "variation": "Red",
+        "pattern":  "",
+        "patternTitle": null,
+        "cyrusCustomizePrice": -1,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": null,
+        "seasonEventExclusive": null,
+        "filename": "FtrGroupPhotoTakumi",
+        "variantId": "0_0",
+        "internalId": 14699,
+        "uniqueEntryId": "vCB3EC5cxnRtmoCgJ",
+        "variantTranslations": null,
+        "colors": [ "Colorful", "Red" ],
+        "concepts": []
+      }
+    ],
+    "recipe": null
   }
 ]
