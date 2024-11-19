@@ -50,7 +50,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+      "eUde": "Die Fälschung hat einen Kaffeefleck in der oberen rechten Ecke.",
+      "eUen": "The fake version has a coffee stain in the top right corner.",
+      "eUit": "La versione falsa ha una macchia di caffè nell'angolo in alto a destra.",
+      "eUnl": "De nepversie heeft een koffievlek in de rechterbovenhoek.",
+      "eUru": "На подделке есть пятно от кофе в правом верхнем углу.",
+      "eUfr": "La version contrefaite présente une tache de café dans le coin supérieur droit.",
+      "eUes": "La versión falsa tiene una mancha de café en la esquina superior derecha.",
+      "uSen": "The fake version has a coffee stain in the top right corner.",
+      "uSfr": "La version contrefaite présente une tache de café dans le coin supérieur droit.",
+      "uSes": "La versión falsa tiene una mancha de café en la esquina superior derecha.",
+      "jPja": "偽物には右上にコーヒーのシミがあります。",
+      "kRko": "가품은 오른쪽 위에 커피 얼룩이 있습니다.",
+      "tWzh": "仿製品在右上角有咖啡污漬。",
+      "cNzh": "仿制品在右上角有咖啡污渍。"
+    }
   },
   {
     "sourceSheet": "Artwork",
@@ -103,7 +119,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+      "eUde": "Die Fälschung hat einen Kaffeefleck in der oberen rechten Ecke.",
+      "eUen": "The fake version has a coffee stain in the top right corner.",
+      "eUit": "La versione falsa ha una macchia di caffè nell'angolo in alto a destra.",
+      "eUnl": "De nepversie heeft een koffievlek in de rechterbovenhoek.",
+      "eUru": "На подделке есть пятно от кофе в правом верхнем углу.",
+      "eUfr": "La version contrefaite présente une tache de café dans le coin supérieur droit.",
+      "eUes": "La versión falsa tiene una mancha de café en la esquina superior derecha.",
+      "uSen": "The fake version has a coffee stain in the top right corner.",
+      "uSfr": "La version contrefaite présente une tache de café dans le coin supérieur droit.",
+      "uSes": "La versión falsa tiene una mancha de café en la esquina superior derecha.",
+      "jPja": "偽物には右上にコーヒーのシミがあります。",
+      "kRko": "가품은 오른쪽 위에 커피 얼룩이 있습니다.",
+      "tWzh": "仿製品在右上角有咖啡污漬。",
+      "cNzh": "仿制品在右上角有咖啡污渍。"
+    }
   },
   {
     "sourceSheet": "Artwork",
@@ -156,7 +188,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+      "eUde": "Die Fälschung zeigt einen Mann in der Mitte, der seinen Hut abnimmt.",
+      "eUen": "The fake version has a man in the center taking off his hat.",
+      "eUit": "La versione falsa mostra un uomo al centro che si toglie il cappello.",
+      "eUnl": "De nepversie toont een man in het midden die zijn hoed afneemt.",
+      "eUru": "На подделке изображён мужчина в центре, снимающий шляпу.",
+      "eUfr": "La version contrefaite montre un homme au centre en train d'enlever son chapeau.",
+      "eUes": "La versión falsa muestra a un hombre en el centro quitándose el sombrero.",
+      "uSen": "The fake version has a man in the center taking off his hat.",
+      "uSfr": "La version contrefaite montre un homme au centre en train d'enlever son chapeau.",
+      "uSes": "La versión falsa muestra a un hombre en el centro quitándose el sombrero.",
+      "jPja": "偽物には中央の男が帽子を取っています。",
+      "kRko": "가품은 중앙의 남자가 모자를 벗고 있습니다.",
+      "tWzh": "仿製品中間的男子正在脫帽。",
+      "cNzh": "仿制品中间的男子正在脱帽。"
+    }
   },
   {
     "sourceSheet": "Artwork",
@@ -209,7 +257,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+      "eUde": "Die Fälschung zeigt einen Mann in der Mitte, der seinen Hut abnimmt.",
+      "eUen": "The fake version has a man in the center taking off his hat.",
+      "eUit": "La versione falsa mostra un uomo al centro che si toglie il cappello.",
+      "eUnl": "De nepversie toont een man in het midden die zijn hoed afneemt.",
+      "eUru": "На подделке изображён мужчина в центре, снимающий шляпу.",
+      "eUfr": "La version contrefaite montre un homme au centre en train d'enlever son chapeau.",
+      "eUes": "La versión falsa muestra a un hombre en el centro quitándose el sombrero.",
+      "uSen": "The fake version has a man in the center taking off his hat.",
+      "uSfr": "La version contrefaite montre un homme au centre en train d'enlever son chapeau.",
+      "uSes": "La versión falsa muestra a un hombre en el centro quitándose el sombrero.",
+      "jPja": "偽物には中央の男が帽子を取っています。",
+      "kRko": "가품은 중앙의 남자가 모자를 벗고 있습니다.",
+      "tWzh": "仿製品中間的男子正在脫帽。",
+      "cNzh": "仿制品中间的男子正在脱帽。"
+    }
   },
   {
     "sourceSheet": "Artwork",
@@ -262,7 +326,23 @@
     "concepts": [ "ancient", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+   "fake_differences": {
+      "eUde": "Die Fälschung hat eine Antenne und zeigt nachts ein blaues Licht in den Augen.",
+      "eUen": "The fake version has an antenna and emits blue light from its eyes at night.",
+      "eUit": "La versione falsa ha un'antenna e di notte emette una luce blu dagli occhi.",
+      "eUnl": "De nepversie heeft een antenne en straalt 's nachts blauw licht uit zijn ogen.",
+      "eUru": "Подделка оснащена антенной и ночью из глаз исходит голубой свет.",
+      "eUfr": "La version contrefaite a une antenne et émet une lumière bleue des yeux la nuit.",
+      "eUes": "La versión falsa tiene una antena y emite una luz azul desde los ojos por la noche.",
+      "uSen": "The fake version has an antenna and emits blue light from its eyes at night.",
+      "uSfr": "La version contrefaite a une antenne et émet une lumière bleue des yeux la nuit.",
+      "uSes": "La versión falsa tiene una antena y emite una luz azul desde los ojos por la noche.",
+      "jPja": "偽物にはアンテナがあり、夜には目から青い光が出ます。",
+      "kRko": "가품은 안테나가 달려있고, 야간에는 눈에서 푸른 빛이 나기도 합니다.",
+      "tWzh": "仿製品帶有天線，夜間眼睛會發出藍光。",
+      "cNzh": "仿制品带有天线，夜间眼睛会发出蓝光。"
+    }
   },
   {
     "sourceSheet": "Artwork",
@@ -315,7 +395,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat eine Antenne und zeigt nachts ein blaues Licht in den Augen.",
+       "eUen": "The fake version has an antenna and emits blue light from its eyes at night.",
+       "eUit": "La versione falsa ha un'antenna e di notte emette una luce blu dagli occhi.",
+       "eUnl": "De nepversie heeft een antenne en straalt 's nachts blauw licht uit zijn ogen.",
+       "eUru": "Подделка оснащена антенной и ночью из глаз исходит голубой свет.",
+       "eUfr": "La version contrefaite a une antenne et émet une lumière bleue des yeux la nuit.",
+       "eUes": "La versión falsa tiene una antena y emite una luz azul desde los ojos por la noche.",
+       "uSen": "The fake version has an antenna and emits blue light from its eyes at night.",
+       "uSfr": "La version contrefaite a une antenne et émet une lumière bleue des yeux la nuit.",
+       "uSes": "La versión falsa tiene una antena y emite una luz azul desde los ojos por la noche.",
+       "jPja": "偽物にはアンテナがあり、夜には目から青い光が出ます。",
+       "kRko": "가품은 투구에 안테나가 달려있고, 야간에는 눈에서 푸른 빛이 나기도 합니다.",
+       "tWzh": "仿製品帶有天線，夜間眼睛會發出藍光。",
+       "cNzh": "仿制品带有天线，夜间眼睛会发出蓝光。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -368,7 +464,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat volles Pony.",
+       "eUen": "The fake version has thick bangs.",
+       "eUit": "La versione falsa ha una frangia folta.",
+       "eUnl": "De nepversie heeft een volle pony.",
+       "eUru": "У подделки густая челка.",
+       "eUfr": "La version contrefaite a une frange épaisse.",
+       "eUes": "La versión falsa tiene un flequillo grueso.",
+       "uSen": "The fake version has thick bangs.",
+       "uSfr": "La version contrefaite a une frange épaisse.",
+       "uSes": "La versión falsa tiene un flequillo grueso.",
+       "jPja": "偽物は前髪が豊かです。",
+       "kRko": "가품은 앞머리가 풍성해요.",
+       "tWzh": "仿製品有豐滿的劉海。",
+       "cNzh": "仿制品有丰满的刘海。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -421,7 +533,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat volles Pony.",
+       "eUen": "The fake version has thick bangs.",
+       "eUit": "La versione falsa ha una frangia folta.",
+       "eUnl": "De nepversie heeft een volle pony.",
+       "eUru": "У подделки густая челка.",
+       "eUfr": "La version contrefaite a une frange épaisse.",
+       "eUes": "La versión falsa tiene un flequillo grueso.",
+       "uSen": "The fake version has thick bangs.",
+       "uSfr": "La version contrefaite a une frange épaisse.",
+       "uSes": "La versión falsa tiene un flequillo grueso.",
+       "jPja": "偽物は前髪が豊かです。",
+       "kRko": "가품은 앞머리가 풍성해요.",
+       "tWzh": "仿製品有豐滿的劉海。",
+       "cNzh": "仿制品有丰满的刘海。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -474,7 +602,23 @@
     "concepts": [ "ancient", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt eine Halskette.",
+       "eUen": "The fake version is wearing a necklace.",
+       "eUit": "La versione falsa indossa una collana.",
+       "eUnl": "De nepversie draagt een ketting.",
+       "eUru": "У подделки есть ожерелье.",
+       "eUfr": "La version contrefaite porte un collier.",
+       "eUes": "La versión falsa lleva un collar.",
+       "uSen": "The fake version is wearing a necklace.",
+       "uSfr": "La version contrefaite porte un collier.",
+       "uSes": "La versión falsa lleva un collar.",
+       "jPja": "偽物はネックレスをしています。",
+       "kRko": "가품은 목걸이를 하고 있어요.",
+       "tWzh": "仿製品戴著項鍊。",
+       "cNzh": "仿制品戴着项链。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -527,7 +671,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt eine Halskette.",
+       "eUen": "The fake version is wearing a necklace.",
+       "eUit": "La versione falsa indossa una collana.",
+       "eUnl": "De nepversie draagt een ketting.",
+       "eUru": "У подделки есть ожерелье.",
+       "eUfr": "La version contrefaite porte un collier.",
+       "eUes": "La versión falsa lleva un collar.",
+       "uSen": "The fake version is wearing a necklace.",
+       "uSfr": "La version contrefaite porte un collier.",
+       "uSes": "La versión falsa lleva un collar.",
+       "jPja": "偽物はネックレスをしています。",
+       "kRko": "가품은 목걸이를 하고 있어요.",
+       "tWzh": "仿製品戴著項鍊。",
+       "cNzh": "仿制品戴着项链。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -686,7 +846,23 @@
     "concepts": [ "expensive", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat violette Blütenblätter.",
+       "eUen": "The fake version has purple petals.",
+       "eUit": "La versione falsa ha petali viola.",
+       "eUnl": "De nepversie heeft paarse bloemblaadjes.",
+       "eUru": "У подделки лепестки фиолетового цвета.",
+       "eUfr": "La version contrefaite a des pétales violets.",
+       "eUes": "La versión falsa tiene pétalos morados.",
+       "uSen": "The fake version has purple petals.",
+       "uSfr": "La version contrefaite a des pétales violets.",
+       "uSes": "La versión falsa tiene pétalos morados.",
+       "jPja": "偽物は花びらの色が紫です。",
+       "kRko": "가품은 꽃잎의 색깔이 보라색이에요.",
+       "tWzh": "仿製品的花瓣顏色是紫色的。",
+       "cNzh": "仿制品的花瓣颜色是紫色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -739,7 +915,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat violette Blütenblätter.",
+       "eUen": "The fake version has purple petals.",
+       "eUit": "La versione falsa ha petali viola.",
+       "eUnl": "De nepversie heeft paarse bloemblaadjes.",
+       "eUru": "У подделки лепестки фиолетового цвета.",
+       "eUfr": "La version contrefaite a des pétales violets.",
+       "eUes": "La versión falsa tiene pétalos morados.",
+       "uSen": "The fake version has purple petals.",
+       "uSfr": "La version contrefaite a des pétales violets.",
+       "uSes": "La versión falsa tiene pétalos morados.",
+       "jPja": "偽物は花びらの色が紫です。",
+       "kRko": "가품은 꽃잎의 색깔이 보라색이에요.",
+       "tWzh": "仿製品的花瓣顏色是紫色的。",
+       "cNzh": "仿制品的花瓣颜色是紫色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -898,7 +1090,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat wütende Augenbrauen.",
+       "eUen": "The fake version has angry eyebrows.",
+       "eUit": "La versione falsa ha sopracciglia arrabbiate.",
+       "eUnl": "De nepversie heeft boze wenkbrauwen.",
+       "eUru": "У подделки злые брови.",
+       "eUfr": "La version contrefaite a des sourcils fâchés.",
+       "eUes": "La versión falsa tiene cejas enfadadas.",
+       "uSen": "The fake version has angry eyebrows.",
+       "uSfr": "La version contrefaite a des sourcils fâchés.",
+       "uSes": "La versión falsa tiene cejas enfadadas.",
+       "jPja": "偽物には怒った眉があります。",
+       "kRko": "가품은 화난 눈썹이 있어요.",
+       "tWzh": "仿製品有憤怒的眉毛。",
+       "cNzh": "仿制品有愤怒的眉毛。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -951,7 +1159,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat wütende Augenbrauen.",
+       "eUen": "The fake version has angry eyebrows.",
+       "eUit": "La versione falsa ha sopracciglia arrabbiate.",
+       "eUnl": "De nepversie heeft boze wenkbrauwen.",
+       "eUru": "У подделки злые брови.",
+       "eUfr": "La version contrefaite a des sourcils fâchés.",
+       "eUes": "La versión falsa tiene cejas enfadadas.",
+       "uSen": "The fake version has angry eyebrows.",
+       "uSfr": "La version contrefaite a des sourcils fâchés.",
+       "uSes": "La versión falsa tiene cejas enfadadas.",
+       "jPja": "偽物には怒った眉があります。",
+       "kRko": "가품은 화난 눈썹이 있어요.",
+       "tWzh": "仿製品有憤怒的眉毛。",
+       "cNzh": "仿制品有愤怒的眉毛。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1057,7 +1281,23 @@
     "concepts": [ "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hält ein Buch.",
+       "eUen": "The fake version is holding a book.",
+       "eUit": "La versione falsa tiene un libro.",
+       "eUnl": "De nepversie houdt een boek vast.",
+       "eUru": "У подделки в руках книга.",
+       "eUfr": "La version contrefaite tient un livre.",
+       "eUes": "La versión falsa está sosteniendo un libro.",
+       "uSen": "The fake version is holding a book.",
+       "uSfr": "La version contrefaite tient un livre.",
+       "uSes": "La versión falsa está sosteniendo un libro.",
+       "jPja": "偽物は本を持っています。",
+       "kRko": "가품은 책을 들고 있어요.",
+       "tWzh": "仿製品拿著一本書。",
+       "cNzh": "仿制品拿着一本书。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1110,7 +1350,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hält ein Buch.",
+       "eUen": "The fake version is holding a book.",
+       "eUit": "La versione falsa tiene un libro.",
+       "eUnl": "De nepversie houdt een boek vast.",
+       "eUru": "У подделки в руках книга.",
+       "eUfr": "La version contrefaite tient un livre.",
+       "eUes": "La versión falsa está sosteniendo un libro.",
+       "uSen": "The fake version is holding a book.",
+       "uSfr": "La version contrefaite tient un livre.",
+       "uSes": "La versión falsa está sosteniendo un libro.",
+       "jPja": "偽物は本を持っています。",
+       "kRko": "가품은 책을 들고 있어요.",
+       "tWzh": "仿製品拿著一本書。",
+       "cNzh": "仿制品拿着一本书。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1216,7 +1472,23 @@
     "concepts": [ "expensive", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat kein weißes Haarband oder schaut nach links.",
+       "eUen": "The fake version lacks a white hair tie or is turning its head to the left.",
+       "eUit": "La versione falsa non ha un elastico bianco per capelli o gira la testa a sinistra.",
+       "eUnl": "De nepversie heeft geen witte haarband of draait het hoofd naar links.",
+       "eUru": "У подделки нет белой резинки для волос или она поворачивает голову влево.",
+       "eUfr": "La version contrefaite n'a pas de ruban blanc dans les cheveux ou tourne la tête vers la gauche.",
+       "eUes": "La versión falsa no tiene una goma de pelo blanca o gira la cabeza hacia la izquierda.",
+       "uSen": "The fake version lacks a white hair tie or is turning its head to the left.",
+       "uSfr": "La version contrefaite n'a pas de ruban blanc dans les cheveux ou tourne la tête vers la gauche.",
+       "uSes": "La versión falsa no tiene una goma de pelo blanca o gira la cabeza hacia la izquierda.",
+       "jPja": "偽物は白いヘアゴムがないか、左に顔を向けています。",
+       "kRko": "가품은 흰색 머리끈이 없거나, 고개를 왼쪽으로 돌리고 있어요.",
+       "tWzh": "仿製品沒有白色髮圈，或者頭轉向左側。",
+       "cNzh": "仿制品没有白色发圈，或者头转向左侧。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1269,7 +1541,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat kein weißes Haarband oder schaut nach links.",
+       "eUen": "The fake version lacks a white hair tie or is turning its head to the left.",
+       "eUit": "La versione falsa non ha un elastico bianco per capelli o gira la testa a sinistra.",
+       "eUnl": "De nepversie heeft geen witte haarband of draait het hoofd naar links.",
+       "eUru": "У подделки нет белой резинки для волос или она поворачивает голову влево.",
+       "eUfr": "La version contrefaite n'a pas de ruban blanc dans les cheveux ou tourne la tête vers la gauche.",
+       "eUes": "La versión falsa no tiene una goma de pelo blanca o gira la cabeza hacia la izquierda.",
+       "uSen": "The fake version lacks a white hair tie or is turning its head to the left.",
+       "uSfr": "La version contrefaite n'a pas de ruban blanc dans les cheveux ou tourne la tête vers la gauche.",
+       "uSes": "La versión falsa no tiene una goma de pelo blanca o gira la cabeza hacia la izquierda.",
+       "jPja": "偽物は白いヘアゴムがないか、左に顔を向けています。",
+       "kRko": "가품은 흰색 머리끈이 없거나, 고개를 왼쪽으로 돌리고 있어요.",
+       "tWzh": "仿製品沒有白色髮圈，或者頭轉向左側。",
+       "cNzh": "仿制品没有白色发圈，或者头转向左侧。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1375,7 +1663,23 @@
     "concepts": [ "ancient" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung ist blau.",
+       "eUen": "The fake version is blue.",
+       "eUit": "La versione falsa è blu.",
+       "eUnl": "De nepversie is blauw.",
+       "eUru": "Подделка синего цвета.",
+       "eUfr": "La version contrefaite est bleue.",
+       "eUes": "La versión falsa es azul.",
+       "uSen": "The fake version is blue.",
+       "uSfr": "La version contrefaite est bleue.",
+       "uSes": "La versión falsa es azul.",
+       "jPja": "偽物は青いです。",
+       "kRko": "가품은 푸른색이에요.",
+       "tWzh": "仿製品是藍色的。",
+       "cNzh": "仿制品是蓝色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1428,7 +1732,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung ist blau.",
+       "eUen": "The fake version is blue.",
+       "eUit": "La versione falsa è blu.",
+       "eUnl": "De nepversie is blauw.",
+       "eUru": "Подделка синего цвета.",
+       "eUfr": "La version contrefaite est bleue.",
+       "eUes": "La versión falsa es azul.",
+       "uSen": "The fake version is blue.",
+       "uSfr": "La version contrefaite est bleue.",
+       "uSes": "La versión falsa es azul.",
+       "jPja": "偽物は青いです。",
+       "kRko": "가품은 푸른색이에요.",
+       "tWzh": "仿製品是藍色的。",
+       "cNzh": "仿制品是蓝色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1481,7 +1801,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat keine Blume auf der Brust.",
+       "eUen": "The fake version does not have a flower on its chest.",
+       "eUit": "La versione falsa non ha un fiore sul petto.",
+       "eUnl": "De nepversie heeft geen bloem op de borst.",
+       "eUru": "У подделки нет цветка на груди.",
+       "eUfr": "La version contrefaite n'a pas de fleur sur la poitrine.",
+       "eUes": "La versión falsa no tiene una flor en el pecho.",
+       "uSen": "The fake version does not have a flower on its chest.",
+       "uSfr": "La version contrefaite n'a pas de fleur sur la poitrine.",
+       "uSes": "La versión falsa no tiene una flor en el pecho.",
+       "jPja": "偽物は胸に花がありません。",
+       "kRko": "가품은 가슴 쪽에 꽃이 없어요.",
+       "tWzh": "仿製品胸口沒有花。",
+       "cNzh": "仿制品胸口没有花。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1534,7 +1870,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat keine Blume auf der Brust.",
+       "eUen": "The fake version does not have a flower on its chest.",
+       "eUit": "La versione falsa non ha un fiore sul petto.",
+       "eUnl": "De nepversie heeft geen bloem op de borst.",
+       "eUru": "У подделки нет цветка на груди.",
+       "eUfr": "La version contrefaite n'a pas de fleur sur la poitrine.",
+       "eUes": "La versión falsa no tiene una flor en el pecho.",
+       "uSen": "The fake version does not have a flower on its chest.",
+       "uSfr": "La version contrefaite n'a pas de fleur sur la poitrine.",
+       "uSes": "La versión falsa no tiene una flor en el pecho.",
+       "jPja": "偽物は胸に花がありません。",
+       "kRko": "가품은 가슴 쪽에 꽃이 없어요.",
+       "tWzh": "仿製品胸口沒有花。",
+       "cNzh": "仿制品胸口没有花。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1640,7 +1992,23 @@
     "concepts": [ "ancient", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt einen Wolf, der die Zunge herausstreckt.",
+       "eUen": "The fake version depicts a wolf sticking out its tongue.",
+       "eUit": "La versione falsa raffigura un lupo che tira fuori la lingua.",
+       "eUnl": "De nepversie toont een wolf die zijn tong uitsteekt.",
+       "eUru": "На подделке изображён волк, высовывающий язык.",
+       "eUfr": "La version contrefaite représente un loup tirant la langue.",
+       "eUes": "La versión falsa muestra un lobo sacando la lengua.",
+       "uSen": "The fake version depicts a wolf sticking out its tongue.",
+       "uSfr": "La version contrefaite représente un loup tirant la langue.",
+       "uSes": "La versión falsa muestra un lobo sacando la lengua.",
+       "jPja": "偽物はオオカミが舌を出しています。",
+       "kRko": "가품은 늑대가 혀를 내밀고 있어요.",
+       "tWzh": "仿製品中狼吐出了舌頭。",
+       "cNzh": "仿制品中狼吐出了舌头。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1693,7 +2061,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt einen Wolf, der die Zunge herausstreckt.",
+       "eUen": "The fake version depicts a wolf sticking out its tongue.",
+       "eUit": "La versione falsa raffigura un lupo che tira fuori la lingua.",
+       "eUnl": "De nepversie toont een wolf die zijn tong uitsteekt.",
+       "eUru": "На подделке изображён волк, высовывающий язык.",
+       "eUfr": "La version contrefaite représente un loup tirant la langue.",
+       "eUes": "La versión falsa muestra un lobo sacando la lengua.",
+       "uSen": "The fake version depicts a wolf sticking out its tongue.",
+       "uSfr": "La version contrefaite représente un loup tirant la langue.",
+       "uSes": "La versión falsa muestra un lobo sacando la lengua.",
+       "jPja": "偽物はオオカミが舌を出しています。",
+       "kRko": "가품은 늑대가 혀를 내밀고 있어요.",
+       "tWzh": "仿製品中狼吐出了舌頭。",
+       "cNzh": "仿制品中狼吐出了舌头。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1746,7 +2130,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt einen Wolf, der die Zunge herausstreckt.",
+       "eUen": "The fake version depicts a wolf sticking out its tongue.",
+       "eUit": "La versione falsa raffigura un lupo che tira fuori la lingua.",
+       "eUnl": "De nepversie toont een wolf die zijn tong uitsteekt.",
+       "eUru": "На подделке изображён волк, высовывающий язык.",
+       "eUfr": "La version contrefaite représente un loup tirant la langue.",
+       "eUes": "La versión falsa muestra un lobo sacando la lengua.",
+       "uSen": "The fake version depicts a wolf sticking out its tongue.",
+       "uSfr": "La version contrefaite représente un loup tirant la langue.",
+       "uSes": "La versión falsa muestra un lobo sacando la lengua.",
+       "jPja": "偽物はオオカミが舌を出しています。",
+       "kRko": "가품은 배경 우측에 나무가 없어요.",
+       "tWzh": "仿製品中狼吐出了舌頭。",
+       "cNzh": "仿制品中狼吐出了舌头。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1799,7 +2199,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt einen Wolf, der die Zunge herausstreckt.",
+       "eUen": "The fake version depicts a wolf sticking out its tongue.",
+       "eUit": "La versione falsa raffigura un lupo che tira fuori la lingua.",
+       "eUnl": "De nepversie toont een wolf die zijn tong uitsteekt.",
+       "eUru": "На подделке изображён волк, высовывающий язык.",
+       "eUfr": "La version contrefaite représente un loup tirant la langue.",
+       "eUes": "La versión falsa muestra un lobo sacando la lengua.",
+       "uSen": "The fake version depicts a wolf sticking out its tongue.",
+       "uSfr": "La version contrefaite représente un loup tirant la langue.",
+       "uSes": "La versión falsa muestra un lobo sacando la lengua.",
+       "jPja": "偽物はオオカミが舌を出しています。",
+       "kRko": "가품은 배경 우측에 나무가 없어요.",
+       "tWzh": "仿製品中狼吐出了舌頭。",
+       "cNzh": "仿制品中狼吐出了舌头。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1905,7 +2321,23 @@
     "concepts": [ "ancient" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt einen Ohrring an einem Ohr.",
+       "eUen": "The fake version is wearing an earring on one ear.",
+       "eUit": "La versione falsa indossa un orecchino su un orecchio.",
+       "eUnl": "De nepversie draagt een oorbel aan één oor.",
+       "eUru": "На подделке изображён серьга на одном ухе.",
+       "eUfr": "La version contrefaite porte une boucle d'oreille à une oreille.",
+       "eUes": "La versión falsa lleva un pendiente en una oreja.",
+       "uSen": "The fake version is wearing an earring on one ear.",
+       "uSfr": "La version contrefaite porte une boucle d'oreille à une oreille.",
+       "uSes": "La versión falsa lleva un pendiente en una oreja.",
+       "jPja": "偽物は片方の耳にイヤリングをしています。",
+       "kRko": "가품은 한쪽 귀에 귀걸이를 하고 있어요.",
+       "tWzh": "仿製品在一隻耳朵上戴著耳環。",
+       "cNzh": "仿制品在一只耳朵上戴着耳环。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -1958,7 +2390,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt einen Ohrring an einem Ohr.",
+       "eUen": "The fake version is wearing an earring on one ear.",
+       "eUit": "La versione falsa indossa un orecchino su un orecchio.",
+       "eUnl": "De nepversie draagt een oorbel aan één oor.",
+       "eUru": "На подделке изображён серьга на одном ухе.",
+       "eUfr": "La version contrefaite porte une boucle d'oreille à une oreille.",
+       "eUes": "La versión falsa lleva un pendiente en una oreja.",
+       "uSen": "The fake version is wearing an earring on one ear.",
+       "uSfr": "La version contrefaite porte une boucle d'oreille à une oreille.",
+       "uSes": "La versión falsa lleva un pendiente en una oreja.",
+       "jPja": "偽物は片方の耳にイヤリングをしています。",
+       "kRko": "가품은 한쪽 귀에 귀걸이를 하고 있어요.",
+       "tWzh": "仿製品在一隻耳朵上戴著耳環。",
+       "cNzh": "仿制品在一只耳朵上戴着耳环。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2170,7 +2618,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat einen dicken Milchstrom.",
+       "eUen": "The fake version has a thick stream of milk.",
+       "eUit": "La versione falsa ha un flusso di latte spesso.",
+       "eUnl": "De nepversie heeft een dikke melkstroom.",
+       "eUru": "У подделки толстая струя молока.",
+       "eUfr": "La version contrefaite a un flux de lait épais.",
+       "eUes": "La versión falsa tiene un chorro de leche grueso.",
+       "uSen": "The fake version has a thick stream of milk.",
+       "uSfr": "La version contrefaite a un flux de lait épais.",
+       "uSes": "La versión falsa tiene un chorro de leche grueso.",
+       "jPja": "偽物は牛乳の流れが太いです。",
+       "kRko": "가품은 우유 줄기가 굵어요.",
+       "tWzh": "仿製品的牛奶流很粗。",
+       "cNzh": "仿制品的牛奶流很粗。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2223,7 +2687,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat einen dicken Milchstrom.",
+       "eUen": "The fake version has a thick stream of milk.",
+       "eUit": "La versione falsa ha un flusso di latte spesso.",
+       "eUnl": "De nepversie heeft een dikke melkstroom.",
+       "eUru": "У подделки толстая струя молока.",
+       "eUfr": "La version contrefaite a un flux de lait épais.",
+       "eUes": "La versión falsa tiene un chorro de leche grueso.",
+       "uSen": "The fake version has a thick stream of milk.",
+       "uSfr": "La version contrefaite a un flux de lait épais.",
+       "uSes": "La versión falsa tiene un chorro de leche grueso.",
+       "jPja": "偽物は牛乳の流れが太いです。",
+       "kRko": "가품은 우유 줄기가 굵어요.",
+       "tWzh": "仿製品的牛奶流很粗。",
+       "cNzh": "仿制品的牛奶流很粗。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2276,7 +2756,23 @@
     "concepts": [ "ancient", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt eine Uhr am Handgelenk.",
+       "eUen": "The fake version is wearing a watch on its wrist.",
+       "eUit": "La versione falsa indossa un orologio al polso.",
+       "eUnl": "De nepversie draagt een horloge om de pols.",
+       "eUru": "У подделки на запястье есть часы.",
+       "eUfr": "La version contrefaite porte une montre au poignet.",
+       "eUes": "La versión falsa lleva un reloj en la muñeca.",
+       "uSen": "The fake version is wearing a watch on its wrist.",
+       "uSfr": "La version contrefaite porte une montre au poignet.",
+       "uSes": "La versión falsa lleva un reloj en la muñeca.",
+       "jPja": "偽物は手首に時計をしています。",
+       "kRko": "가품은 손목에 시계가 있어요.",
+       "tWzh": "仿製品的手腕上戴著手錶。",
+       "cNzh": "仿制品的手腕上戴着手表。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2329,7 +2825,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt eine Uhr am Handgelenk.",
+       "eUen": "The fake version is wearing a watch on its wrist.",
+       "eUit": "La versione falsa indossa un orologio al polso.",
+       "eUnl": "De nepversie draagt een horloge om de pols.",
+       "eUru": "У подделки на запястье есть часы.",
+       "eUfr": "La version contrefaite porte une montre au poignet.",
+       "eUes": "La versión falsa lleva un reloj en la muñeca.",
+       "uSen": "The fake version is wearing a watch on its wrist.",
+       "uSfr": "La version contrefaite porte une montre au poignet.",
+       "uSes": "La versión falsa lleva un reloj en la muñeca.",
+       "jPja": "偽物は手首に時計をしています。",
+       "kRko": "가품은 손목에 시계가 있어요.",
+       "tWzh": "仿製品的手腕上戴著手錶。",
+       "cNzh": "仿制品的手腕上戴着手表。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2382,7 +2894,23 @@
     "concepts": [ "ancient" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat nach oben gezogene Mundwinkel.",
+       "eUen": "The fake version has upturned corners of the mouth.",
+       "eUit": "La versione falsa ha gli angoli della bocca sollevati.",
+       "eUnl": "De nepversie heeft opwaartse mondhoeken.",
+       "eUru": "У подделки приподняты уголки рта.",
+       "eUfr": "La version contrefaite a les coins de la bouche relevés.",
+       "eUes": "La versión falsa tiene las comisuras de la boca hacia arriba.",
+       "uSen": "The fake version has upturned corners of the mouth.",
+       "uSfr": "La version contrefaite a les coins de la bouche relevés.",
+       "uSes": "La versión falsa tiene las comisuras de la boca hacia arriba.",
+       "jPja": "偽物は口角が上がっています。",
+       "kRko": "가품은 입꼬리가 올라가있어요.",
+       "tWzh": "仿製品的嘴角向上翹。",
+       "cNzh": "仿制品的嘴角向上翘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2435,7 +2963,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat nach oben gezogene Mundwinkel.",
+       "eUen": "The fake version has upturned corners of the mouth.",
+       "eUit": "La versione falsa ha gli angoli della bocca sollevati.",
+       "eUnl": "De nepversie heeft opwaartse mondhoeken.",
+       "eUru": "У подделки приподняты уголки рта.",
+       "eUfr": "La version contrefaite a les coins de la bouche relevés.",
+       "eUes": "La versión falsa tiene las comisuras de la boca hacia arriba.",
+       "uSen": "The fake version has upturned corners of the mouth.",
+       "uSfr": "La version contrefaite a les coins de la bouche relevés.",
+       "uSes": "La versión falsa tiene las comisuras de la boca hacia arriba.",
+       "jPja": "偽物は口角が上がっています。",
+       "kRko": "가품은 입꼬리가 올라가있어요.",
+       "tWzh": "仿製品的嘴角向上翹。",
+       "cNzh": "仿制品的嘴角向上翘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2488,7 +3032,23 @@
     "concepts": [ "expensive", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat traurige Augenbrauen oder nach oben gezogene Mundwinkel.",
+       "eUen": "The fake version has sad eyebrows or upturned corners of the mouth.",
+       "eUit": "La versione falsa ha sopracciglia tristi o gli angoli della bocca sollevati.",
+       "eUnl": "De nepversie heeft verdrietige wenkbrauwen of opwaartse mondhoeken.",
+       "eUru": "У подделки грустные брови или приподняты уголки рта.",
+       "eUfr": "La version contrefaite a des sourcils tristes ou les coins de la bouche relevés.",
+       "eUes": "La versión falsa tiene cejas tristes o las comisuras de la boca hacia arriba.",
+       "uSen": "The fake version has sad eyebrows or upturned corners of the mouth.",
+       "uSfr": "La version contrefaite a des sourcils tristes ou les coins de la bouche relevés.",
+       "uSes": "La versión falsa tiene cejas tristes o las comisuras de la boca hacia arriba.",
+       "jPja": "偽物は悲しい眉か口角が上がっています。",
+       "kRko": "가품은 눈썹이 슬프거나, 입꼬리가 올라가있어요.",
+       "tWzh": "仿製品有悲傷的眉毛或嘴角向上翹。",
+       "cNzh": "仿制品有悲伤的眉毛或嘴角向上翘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2541,7 +3101,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat traurige Augenbrauen oder nach oben gezogene Mundwinkel.",
+       "eUen": "The fake version has sad eyebrows or upturned corners of the mouth.",
+       "eUit": "La versione falsa ha sopracciglia tristi o gli angoli della bocca sollevati.",
+       "eUnl": "De nepversie heeft verdrietige wenkbrauwen of opwaartse mondhoeken.",
+       "eUru": "У подделки грустные брови или приподняты уголки рта.",
+       "eUfr": "La version contrefaite a des sourcils tristes ou les coins de la bouche relevés.",
+       "eUes": "La versión falsa tiene cejas tristes o las comisuras de la boca hacia arriba.",
+       "uSen": "The fake version has sad eyebrows or upturned corners of the mouth.",
+       "uSfr": "La version contrefaite a des sourcils tristes ou les coins de la bouche relevés.",
+       "uSes": "La versión falsa tiene cejas tristes o las comisuras de la boca hacia arriba.",
+       "jPja": "偽物は悲しい眉か口角が上がっています。",
+       "kRko": "가품은 눈썹이 슬프거나, 입꼬리가 올라가있어요.",
+       "tWzh": "仿製品有悲傷的眉毛或嘴角向上翹。",
+       "cNzh": "仿制品有悲伤的眉毛或嘴角向上翘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2594,7 +3170,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat nur eine Person auf der linken Seite.",
+       "eUen": "The fake version has only one person on the left side.",
+       "eUit": "La versione falsa ha solo una persona sul lato sinistro.",
+       "eUnl": "De nepversie heeft slechts één persoon aan de linkerkant.",
+       "eUru": "На подделке только один человек с левой стороны.",
+       "eUfr": "La version contrefaite a seulement une personne sur le côté gauche.",
+       "eUes": "La versión falsa tiene solo una persona en el lado izquierdo.",
+       "uSen": "The fake version has only one person on the left side.",
+       "uSfr": "La version contrefaite a seulement une personne sur le côté gauche.",
+       "uSes": "La versión falsa tiene solo una persona en el lado izquierdo.",
+       "jPja": "偽物は左側に一人しかいません。",
+       "kRko": "가품은 좌측에 사람이 한명밖에 없어요.",
+       "tWzh": "仿製品左側只有一個人。",
+       "cNzh": "仿制品左侧只有一个人。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2647,7 +3239,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat nur eine Person auf der linken Seite.",
+       "eUen": "The fake version has only one person on the left side.",
+       "eUit": "La versione falsa ha solo una persona sul lato sinistro.",
+       "eUnl": "De nepversie heeft slechts één persoon aan de linkerkant.",
+       "eUru": "На подделке только один человек с левой стороны.",
+       "eUfr": "La version contrefaite a seulement une personne sur le côté gauche.",
+       "eUes": "La versión falsa tiene solo una persona en el lado izquierdo.",
+       "uSen": "The fake version has only one person on the left side.",
+       "uSfr": "La version contrefaite a seulement une personne sur le côté gauche.",
+       "uSes": "La versión falsa tiene solo una persona en el lado izquierdo.",
+       "jPja": "偽物は左側に一人しかいません。",
+       "kRko": "가품은 좌측에 사람이 한명밖에 없어요.",
+       "tWzh": "仿製品左側只有一個人。",
+       "cNzh": "仿制品左侧只有一个人。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2700,7 +3308,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat ein dunkleres, graues Marderfell.",
+       "eUen": "The fake version has a darker, grayish sable fur.",
+       "eUit": "La versione falsa ha una pelliccia di zibellino più scura e grigiastra.",
+       "eUnl": "De nepversie heeft een donkerder, grijzig sabelbont.",
+       "eUru": "У подделки мех соболя темнее с сероватым оттенком.",
+       "eUfr": "La version contrefaite a une fourrure de zibeline plus sombre et grisâtre.",
+       "eUes": "La versión falsa tiene un pelaje de marta más oscuro y grisáceo.",
+       "uSen": "The fake version has a darker, grayish sable fur.",
+       "uSfr": "La version contrefaite a une fourrure de zibeline plus sombre et grisâtre.",
+       "uSes": "La versión falsa tiene un pelaje de marta más oscuro y grisáceo.",
+       "jPja": "偽物のテンの毛色は灰色がかった暗い色です。",
+       "kRko": "가품은 담비 털 색상이 회색빛으로 어두운 색깔이에요.",
+       "tWzh": "仿製品的貂毛顏色較暗且帶灰色。",
+       "cNzh": "仿制品的貂毛颜色较暗且带灰色。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2753,7 +3377,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat ein dunkleres, graues Marderfell.",
+       "eUen": "The fake version has a darker, grayish sable fur.",
+       "eUit": "La versione falsa ha una pelliccia di zibellino più scura e grigiastra.",
+       "eUnl": "De nepversie heeft een donkerder, grijzig sabelbont.",
+       "eUru": "У подделки мех соболя темнее с сероватым оттенком.",
+       "eUfr": "La version contrefaite a une fourrure de zibeline plus sombre et grisâtre.",
+       "eUes": "La versión falsa tiene un pelaje de marta más oscuro y grisáceo.",
+       "uSen": "The fake version has a darker, grayish sable fur.",
+       "uSfr": "La version contrefaite a une fourrure de zibeline plus sombre et grisâtre.",
+       "uSes": "La versión falsa tiene un pelaje de marta más oscuro y grisáceo.",
+       "jPja": "偽物のテンの毛色は灰色がかった暗い色です。",
+       "kRko": "가품은 담비 털 색상이 회색빛으로 어두운 색깔이에요.",
+       "tWzh": "仿製品的貂毛顏色較暗且帶灰色。",
+       "cNzh": "仿制品的貂毛颜色较暗且带灰色。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2859,7 +3499,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den Mann an der Mitteltür, der die Hand vom Vorhang nimmt.",
+       "eUen": "The fake version depicts the man at the central door removing his hand from the curtain.",
+       "eUit": "La versione falsa mostra l'uomo alla porta centrale che toglie la mano dalla tenda.",
+       "eUnl": "De nepversie toont de man bij de centrale deur die zijn hand van het gordijn haalt.",
+       "eUru": "На подделке мужчина у центральной двери убирает руку с занавеса.",
+       "eUfr": "La version contrefaite montre l'homme à la porte centrale retirant sa main du rideau.",
+       "eUes": "La versión falsa muestra al hombre en la puerta central quitando la mano de la cortina.",
+       "uSen": "The fake version depicts the man at the central door removing his hand from the curtain.",
+       "uSfr": "La version contrefaite montre l'homme à la porte centrale retirant sa main du rideau.",
+       "uSes": "La versión falsa muestra al hombre en la puerta central quitando la mano de la cortina.",
+       "jPja": "偽物では中央のドアにいる男性がカーテンから手を離しています。",
+       "kRko": "가품은 중앙 문에 있는 남자가 커튼에 손을 떼고 있어요.",
+       "tWzh": "仿製品中央門的男子正在移開手離開窗簾。",
+       "cNzh": "仿制品中央门的男子正在移开手离开窗帘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2912,7 +3568,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den Mann an der Mitteltür, der die Hand vom Vorhang nimmt.",
+       "eUen": "The fake version depicts the man at the central door removing his hand from the curtain.",
+       "eUit": "La versione falsa mostra l'uomo alla porta centrale che toglie la mano dalla tenda.",
+       "eUnl": "De nepversie toont de man bij de centrale deur die zijn hand van het gordijn haalt.",
+       "eUru": "На подделке мужчина у центральной двери убирает руку с занавеса.",
+       "eUfr": "La version contrefaite montre l'homme à la porte centrale retirant sa main du rideau.",
+       "eUes": "La versión falsa muestra al hombre en la puerta central quitando la mano de la cortina.",
+       "uSen": "The fake version depicts the man at the central door removing his hand from the curtain.",
+       "uSfr": "La version contrefaite montre l'homme à la porte centrale retirant sa main du rideau.",
+       "uSes": "La versión falsa muestra al hombre en la puerta central quitando la mano de la cortina.",
+       "jPja": "偽物では中央のドアにいる男性がカーテンから手を離しています。",
+       "kRko": "가품은 중앙 문에 있는 남자가 커튼에 손을 떼고 있어요.",
+       "tWzh": "仿製品中央門的男子正在移開手離開窗簾。",
+       "cNzh": "仿制品中央门的男子正在移开手离开窗帘。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -2965,7 +3637,23 @@
     "concepts": [ "ancient", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat einen Griff am Deckel.",
+       "eUen": "The fake version has a handle on the lid.",
+       "eUit": "La versione falsa ha un manico sul coperchio.",
+       "eUnl": "De nepversie heeft een handvat op het deksel.",
+       "eUru": "На подделке есть ручка на крышке.",
+       "eUfr": "La version contrefaite a une poignée sur le couvercle.",
+       "eUes": "La versión falsa tiene un asa en la tapa.",
+       "uSen": "The fake version has a handle on the lid.",
+       "uSfr": "La version contrefaite a une poignée sur le couvercle.",
+       "uSes": "La versión falsa tiene un asa en la tapa.",
+       "jPja": "偽物には蓋に取っ手があります。",
+       "kRko": "가품은 뚜껑 손잡이가 있어요.",
+       "tWzh": "仿製品的蓋子上有一個把手。",
+       "cNzh": "仿制品的盖子上有一个把手。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3018,7 +3706,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hat einen Griff am Deckel.",
+       "eUen": "The fake version has a handle on the lid.",
+       "eUit": "La versione falsa ha un manico sul coperchio.",
+       "eUnl": "De nepversie heeft een handvat op het deksel.",
+       "eUru": "На подделке есть ручка на крышке.",
+       "eUfr": "La version contrefaite a une poignée sur le couvercle.",
+       "eUes": "La versión falsa tiene un asa en la tapa.",
+       "uSen": "The fake version has a handle on the lid.",
+       "uSfr": "La version contrefaite a une poignée sur le couvercle.",
+       "uSes": "La versión falsa tiene un asa en la tapa.",
+       "jPja": "偽物には蓋に取っ手があります。",
+       "kRko": "가품은 뚜껑 손잡이가 있어요.",
+       "tWzh": "仿製品的蓋子上有一個把手。",
+       "cNzh": "仿制品的盖子上有一个把手。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3124,7 +3828,23 @@
     "concepts": [ "ancient", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung stellt den linken Fuß nach vorne.",
+       "eUen": "The fake version has the left foot stepped forward.",
+       "eUit": "La versione falsa ha il piede sinistro in avanti.",
+       "eUnl": "De nepversie heeft de linkervoet naar voren gezet.",
+       "eUru": "На подделке левая нога выставлена вперёд.",
+       "eUfr": "La version contrefaite avance le pied gauche.",
+       "eUes": "La versión falsa tiene el pie izquierdo adelantado.",
+       "uSen": "The fake version has the left foot stepped forward.",
+       "uSfr": "La version contrefaite avance le pied gauche.",
+       "uSes": "La versión falsa tiene el pie izquierdo adelantado.",
+       "jPja": "偽物は左足を前に出しています。",
+       "kRko": "가품은 왼발을 앞으로 내밀고 있어요.",
+       "tWzh": "仿製品的左腳向前邁出。",
+       "cNzh": "仿制品的左脚向前迈出。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3177,7 +3897,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung stellt den linken Fuß nach vorne.",
+       "eUen": "The fake version has the left foot stepped forward.",
+       "eUit": "La versione falsa ha il piede sinistro in avanti.",
+       "eUnl": "De nepversie heeft de linkervoet naar voren gezet.",
+       "eUru": "На подделке левая нога выставлена вперёд.",
+       "eUfr": "La version contrefaite avance le pied gauche.",
+       "eUes": "La versión falsa tiene el pie izquierdo adelantado.",
+       "uSen": "The fake version has the left foot stepped forward.",
+       "uSfr": "La version contrefaite avance le pied gauche.",
+       "uSes": "La versión falsa tiene el pie izquierdo adelantado.",
+       "jPja": "偽物は左足を前に出しています。",
+       "kRko": "가품은 왼발을 앞으로 내밀고 있어요.",
+       "tWzh": "仿製品的左腳向前邁出。",
+       "cNzh": "仿制品的左脚向前迈出。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3283,7 +4019,23 @@
     "concepts": [ "ancient", "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hält eine Schaufel.",
+       "eUen": "The fake version is holding a shovel.",
+       "eUit": "La versione falsa tiene in mano una pala.",
+       "eUnl": "De nepversie houdt een schop vast.",
+       "eUru": "На подделке изображено, как держат лопату.",
+       "eUfr": "La version contrefaite tient une pelle.",
+       "eUes": "La versión falsa está sosteniendo una pala.",
+       "uSen": "The fake version is holding a shovel.",
+       "uSfr": "La version contrefaite tient une pelle.",
+       "uSes": "La versión falsa está sosteniendo una pala.",
+       "jPja": "偽物はシャベルを持っています。",
+       "kRko": "가품은 삽을 들고 있어요.",
+       "tWzh": "仿製品手握一把鏟子。",
+       "cNzh": "仿制品手握一把铲子。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3336,7 +4088,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung hält eine Schaufel.",
+       "eUen": "The fake version is holding a shovel.",
+       "eUit": "La versione falsa tiene in mano una pala.",
+       "eUnl": "De nepversie houdt een schop vast.",
+       "eUru": "На подделке изображено, как держат лопату.",
+       "eUfr": "La version contrefaite tient une pelle.",
+       "eUes": "La versión falsa está sosteniendo una pala.",
+       "uSen": "The fake version is holding a shovel.",
+       "uSfr": "La version contrefaite tient une pelle.",
+       "uSes": "La versión falsa está sosteniendo una pala.",
+       "jPja": "偽物はシャベルを持っています。",
+       "kRko": "가품은 삽을 들고 있어요.",
+       "tWzh": "仿製品手握一把鏟子。",
+       "cNzh": "仿制品手握一把铲子。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3389,7 +4157,23 @@
     "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den linken Donnergott in Grün.",
+       "eUen": "The fake version depicts the left thunder god in green.",
+       "eUit": "La versione falsa raffigura il dio del tuono a sinistra in verde.",
+       "eUnl": "De nepversie toont de linker dondergod in het groen.",
+       "eUru": "На подделке левый бог грома изображён в зелёном.",
+       "eUfr": "La version contrefaite montre le dieu du tonnerre gauche en vert.",
+       "eUes": "La versión falsa muestra al dios del trueno izquierdo en verde.",
+       "uSen": "The fake version depicts the left thunder god in green.",
+       "uSfr": "La version contrefaite montre le dieu du tonnerre gauche en vert.",
+       "uSes": "La versión falsa muestra al dios del trueno izquierdo en verde.",
+       "jPja": "偽物では左側の雷神が緑色です。",
+       "kRko": "가품은 좌측 뇌신이 녹색이에요.",
+       "tWzh": "仿製品中左側的雷神是綠色的。",
+       "cNzh": "仿制品中左侧的雷神是绿色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3442,7 +4226,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den linken Donnergott in Grün.",
+       "eUen": "The fake version depicts the left thunder god in green.",
+       "eUit": "La versione falsa raffigura il dio del tuono a sinistra in verde.",
+       "eUnl": "De nepversie toont de linker dondergod in het groen.",
+       "eUru": "На подделке левый бог грома изображён в зелёном.",
+       "eUfr": "La version contrefaite montre le dieu du tonnerre gauche en vert.",
+       "eUes": "La versión falsa muestra al dios del trueno izquierdo en verde.",
+       "uSen": "The fake version depicts the left thunder god in green.",
+       "uSfr": "La version contrefaite montre le dieu du tonnerre gauche en vert.",
+       "uSes": "La versión falsa muestra al dios del trueno izquierdo en verde.",
+       "jPja": "偽物では左側の雷神が緑色です。",
+       "kRko": "가품은 좌측 뇌신이 녹색이에요.",
+       "tWzh": "仿製品中左側的雷神是綠色的。",
+       "cNzh": "仿制品中左侧的雷神是绿色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3495,7 +4295,23 @@
     "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den rechten Windgott in Weiß.",
+       "eUen": "The fake version depicts the right wind god in white.",
+       "eUit": "La versione falsa raffigura il dio del vento a destra in bianco.",
+       "eUnl": "De nepversie toont de rechter windgod in het wit.",
+       "eUru": "На подделке правый бог ветра изображён в белом.",
+       "eUfr": "La version contrefaite montre le dieu du vent droit en blanc.",
+       "eUes": "La versión falsa muestra al dios del viento derecho en blanco.",
+       "uSen": "The fake version depicts the right wind god in white.",
+       "uSfr": "La version contrefaite montre le dieu du vent droit en blanc.",
+       "uSes": "La versión falsa muestra al dios del viento derecho en blanco.",
+       "jPja": "偽物では右側の風神が白色です。",
+       "kRko": "가품은 우측 풍신이 흰색이에요.",
+       "tWzh": "仿製品中右側的風神是白色的。",
+       "cNzh": "仿制品中右侧的风神是白色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3548,7 +4364,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung zeigt den rechten Windgott in Weiß.",
+       "eUen": "The fake version depicts the right wind god in white.",
+       "eUit": "La versione falsa raffigura il dio del vento a destra in bianco.",
+       "eUnl": "De nepversie toont de rechter windgod in het wit.",
+       "eUru": "На подделке правый бог ветра изображён в белом.",
+       "eUfr": "La version contrefaite montre le dieu du vent droit en blanc.",
+       "eUes": "La versión falsa muestra al dios del viento derecho en blanco.",
+       "uSen": "The fake version depicts the right wind god in white.",
+       "uSfr": "La version contrefaite montre le dieu du vent droit en blanc.",
+       "uSes": "La versión falsa muestra al dios del viento derecho en blanco.",
+       "jPja": "偽物では右側の風神が白色です。",
+       "kRko": "가품은 우측 풍신이 흰색이에요.",
+       "tWzh": "仿製品中右側的風神是白色的。",
+       "cNzh": "仿制品中右侧的风神是白色的。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3601,7 +4433,23 @@
     "concepts": [ "expensive", "European" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt Stern-Ohrringe oder hat die Augen geschlossen.",
+       "eUen": "The fake version is wearing star earrings or has its eyes closed.",
+       "eUit": "La versione falsa indossa orecchini a forma di stella o ha gli occhi chiusi.",
+       "eUnl": "De nepversie draagt stervormige oorbellen of heeft de ogen gesloten.",
+       "eUru": "На подделке звёздные серьги или закрытые глаза.",
+       "eUfr": "La version contrefaite porte des boucles d'oreilles en étoile ou a les yeux fermés.",
+       "eUes": "La versión falsa lleva pendientes de estrella o tiene los ojos cerrados.",
+       "uSen": "The fake version is wearing star earrings or has its eyes closed.",
+       "uSfr": "La version contrefaite porte des boucles d'oreilles en étoile ou a les yeux fermés.",
+       "uSes": "La versión falsa lleva pendientes de estrella o tiene los ojos cerrados.",
+       "jPja": "偽物は星のイヤリングをしているか、目を閉じています。",
+       "kRko": "가품은 별 귀고리를 하고 있거나, 눈을 감고 있어요.",
+       "tWzh": "仿製品戴著星形耳環或閉上了眼睛。",
+       "cNzh": "仿制品戴着星形耳环或闭上了眼睛。"
+     }
   },
   {
     "sourceSheet": "Artwork",
@@ -3654,7 +4502,23 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
-    "recipe": null
+    "recipe": null,
+    "fake_differences": {
+       "eUde": "Die Fälschung trägt Stern-Ohrringe oder hat die Augen geschlossen.",
+       "eUen": "The fake version is wearing star earrings or has its eyes closed.",
+       "eUit": "La versione falsa indossa orecchini a forma di stella o ha gli occhi chiusi.",
+       "eUnl": "De nepversie draagt stervormige oorbellen of heeft de ogen gesloten.",
+       "eUru": "На подделке звёздные серьги или закрытые глаза.",
+       "eUfr": "La version contrefaite porte des boucles d'oreilles en étoile ou a les yeux fermés.",
+       "eUes": "La versión falsa lleva pendientes de estrella o tiene los ojos cerrados.",
+       "uSen": "The fake version is wearing star earrings or has its eyes closed.",
+       "uSfr": "La version contrefaite porte des boucles d'oreilles en étoile ou a les yeux fermés.",
+       "uSes": "La versión falsa lleva pendientes de estrella o tiene los ojos cerrados.",
+       "jPja": "偽物は星のイヤリングをしているか、目を閉じています。",
+       "kRko": "가품은 별 귀고리를 하고 있거나, 눈을 감고 있어요.",
+       "tWzh": "仿製品戴著星形耳環或閉上了眼睛。",
+       "cNzh": "仿制品戴着星形耳环或闭上了眼睛。"
+     }
   },
   {
     "sourceSheet": "Artwork",
