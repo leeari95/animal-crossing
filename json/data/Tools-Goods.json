@@ -7119,6 +7119,8 @@
       "plural": false
     },
     "source": [ "Nook Shopping Seasonal" ],
+    "seasonEvent": "Shamrock Day",
+    "seasonEventExclusive": true,
     "hhaBasePoints": 201,
     "villagerEquippable": false,
     "unlocked": true,

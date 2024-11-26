@@ -6,6 +6,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMka.png",
     "gender": "Female",
     "genderAsia": "Male",
+    "species": "Cat",
     "versionAdded": null,
     "npcId": "mka",
     "internalId": 44,
@@ -15,6 +16,18 @@
     "iconFilename": "mka",
     "photoFilename": "NpcSpMka",
     "uniqueEntryId": "Ndgae4bSokoBtb97u",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "mka",
@@ -42,6 +55,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpOwl.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Owl",
     "versionAdded": "1.0.0",
     "npcId": "owl",
     "internalId": 23,
@@ -51,6 +65,16 @@
     "iconFilename": "owl",
     "photoFilename": "NpcSpOwl",
     "uniqueEntryId": "LXqTqy94M9Yt7yaAb",
+    "appearanceLocation": [
+      {
+        "place": "Museum",
+        "time": {
+          "start": "00:00",
+          "end": "23:59"
+        },
+        "conditions": "Available as the museum curator to accept donations of fish, bugs, sea creatures, and art. Provides information on donated items."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "owl",
@@ -78,6 +102,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpDgb.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": null,
     "npcId": "dgb",
     "internalId": 32,
@@ -87,6 +112,18 @@
     "iconFilename": "dgb",
     "photoFilename": "NpcSpDgb",
     "uniqueEntryId": "ucw3urkmPQzYh6s9i",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "dgb",
@@ -101,7 +138,7 @@
       "uSfr": "Chausset",
       "uSes": "Nocencio",
       "jPja": "おまわりさん",
-      "kRko": "경찰관",
+      "kRko": "경찰관 B",
       "tWzh": "警察叔叔",
       "cNzh": "警察叔叔",
       "plural": false
@@ -114,6 +151,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPge.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Pigeon",
     "versionAdded": "2.0.0",
     "npcId": "pge",
     "internalId": 28,
@@ -123,6 +161,16 @@
     "iconFilename": "pge",
     "photoFilename": "NpcSpPge",
     "uniqueEntryId": "RkbTSEruyBcEyMjDX",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": {
+          "start": "00:00",
+          "end": "23:59"
+        },
+        "conditions": "Operates the café 'The Roost' in the Animal Crossing series."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "pge",
@@ -150,6 +198,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpBey.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Beaver",
     "versionAdded": "1.0.0",
     "npcId": "bey",
     "internalId": 59,
@@ -159,6 +208,32 @@
     "iconFilename": "bey",
     "photoFilename": "NpcSpBey",
     "uniqueEntryId": "ztkxCvQbcCJYQEgJ7",
+    "appearanceLocation": [
+      {
+        "place": "Fishing Tourney",
+        "time": {
+          "start": "09:00",
+          "end": "18:00"
+        },
+        "conditions": "Holds the Fishing Tourney on the second Saturday of January, April, July, and October.",
+        "features": [
+          "Entry fee: 500 Bells"
+        ]
+      },
+      {
+        "place": "Random Visit",
+        "time": {
+          "start": "05:00",
+          "end": "05:00"
+        },
+        "conditions": "Appears randomly on weekdays after the Resident Services building is constructed.",
+        "features": [
+          "Creates fish models.",
+          "Buys fish at 1.5x the normal price after completing a challenge.",
+          "Does not buy sea creatures."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "bey",
@@ -186,6 +261,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpOws.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Owl",
     "versionAdded": "1.0.0",
     "npcId": "ows",
     "internalId": 24,
@@ -195,6 +271,20 @@
     "iconFilename": "ows",
     "photoFilename": "NpcSpOws",
     "uniqueEntryId": "7t6ZNPqsvE22CsyMw",
+    "appearanceLocation": [
+      {
+        "place": "Random Outdoor Location",
+        "time": {
+          "start": "20:00",
+          "end": "04:00"
+        },
+        "conditions": "Appears after the museum is constructed on clear nights.",
+        "features": [
+          "Provides star-themed DIY recipes.",
+          "Shares stories about constellations when shown Star Fragments."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "ows",
@@ -222,6 +312,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpBev.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Beaver",
     "versionAdded": null,
     "npcId": "bev",
     "internalId": 2,
@@ -231,6 +322,22 @@
     "iconFilename": "bev",
     "photoFilename": "NpcSpBev",
     "uniqueEntryId": "XGGxy4Wx86EDDH57S",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Can be invited via amiibo card.",
+        "features": [
+          "Visits with C.J. (his son) or Nat when invited.",
+          "Shows a positive relationship with his son, C.J."
+        ]
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "bev",
@@ -258,6 +365,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpDga.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": null,
     "npcId": "dga",
     "internalId": 30,
@@ -267,6 +375,18 @@
     "iconFilename": "dga",
     "photoFilename": "NpcSpDga",
     "uniqueEntryId": "jdNK4NrvZmRC82yJ5",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "dga",
@@ -281,7 +401,7 @@
       "uSfr": "Maret",
       "uSes": "Vigilio",
       "jPja": "おまわりさん",
-      "kRko": "경찰관",
+      "kRko": "경찰관 A",
       "tWzh": "警察叔叔",
       "cNzh": "警察叔叔",
       "plural": false
@@ -294,6 +414,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpAlp.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Alpaca",
     "versionAdded": "1.2.0",
     "npcId": "alp",
     "internalId": 0,
@@ -303,6 +424,26 @@
     "iconFilename": "alp",
     "photoFilename": "NpcSpAlp",
     "uniqueEntryId": "yJQuzNGtgcSbWw47g",
+    "appearanceLocation": [
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Visits during the 'Wedding Season' event in June with his wife, Reese.",
+        "features": [
+          "Helps players take anniversary photos with Reese."
+        ]
+      },
+      {
+        "place": "Harv's Island",
+        "time": null,
+        "conditions": "Available after the 2.0.0 update at Harv's Island Plaza.",
+        "features": [
+          "Provides furniture customization services.",
+          "Can customize furniture variations, including those unavailable from crafting.",
+          "Solves the issue of obtaining furniture colors that were previously region-specific."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "alp",
@@ -330,6 +471,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": "2.0.0",
     "npcId": "tkkB",
     "internalId": 65,
@@ -339,6 +481,21 @@
     "iconFilename": "tkkB",
     "photoFilename": "NpcSpTkkB",
     "uniqueEntryId": "eQgLgRTaBTQy6LQLS",
+    "appearanceLocation": [
+      {
+        "place": "Happy Home Paradise Island",
+        "time": null,
+        "conditions": "Available after completing basic tasks in the 'Happy Home Paradise' DLC and hosting the first DJing Festival.",
+        "features": [
+          "Performs a DJing Festival on the beach.",
+          "Allows players to choose a dance partner.",
+          "Features bubbles during daytime performances.",
+          "Features spectacular lights during nighttime performances.",
+          "Displays credits and photos of decorated vacation homes during the festival.",
+          "Serves as the ending event for the DLC."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "tkkB",
@@ -366,6 +523,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpBoc.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Wild boar",
     "versionAdded": "1.0.0",
     "npcId": "boc",
     "internalId": 61,
@@ -375,6 +533,20 @@
     "iconFilename": "boc",
     "photoFilename": "NpcSpBoc",
     "uniqueEntryId": "cGKq9qsGALbSyfgbR",
+    "appearanceLocation": [
+      {
+        "place": "Random Outdoor Location",
+        "time": {
+          "start": "05:00",
+          "end": "12:00"
+        },
+        "conditions": "Appears after the construction of Nook's Cranny.",
+        "features": [
+          "Sells turnips every Sunday morning.",
+          "Sends 3 bamboo shoots the day after purchasing turnips."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "boc",
@@ -402,6 +574,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpSzo.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": null,
     "npcId": "szo",
     "internalId": 49,
@@ -411,6 +584,18 @@
     "iconFilename": "szo",
     "photoFilename": "NpcSpSzo",
     "uniqueEntryId": "8Mwo7kmFeM9iRxXmb",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "szo",
@@ -438,6 +623,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMob.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Mole",
     "versionAdded": null,
     "npcId": "mob",
     "internalId": 20,
@@ -447,6 +633,27 @@
     "iconFilename": "mob",
     "photoFilename": "NpcSpMob",
     "uniqueEntryId": "pE6as787paJEWhgbX",
+    "appearanceLocation": [
+      {
+        "place": "Emergency Escape Service",
+        "time": null,
+        "conditions": "Rarely appears as an operator of the Emergency Escape Service, replacing his brother, Mr. Resetti.",
+        "features": [
+          "Provides the same service as Mr. Resetti, helping players return to key locations.",
+          "Appears randomly, making his appearances less common."
+        ]
+      },
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "mob",
@@ -474,6 +681,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpChy.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Chameleon",
     "versionAdded": "1.0.0",
     "npcId": "chy",
     "internalId": 63,
@@ -483,6 +691,22 @@
     "iconFilename": "chy",
     "photoFilename": "NpcSpChy",
     "uniqueEntryId": "iN2YPaidM5d8aCFpa",
+    "appearanceLocation": [
+      {
+        "place": "Random Outdoor Location",
+        "time": {
+          "start": "05:00",
+          "end": "05:00",
+          "nextDay": true
+        },
+        "conditions": "Appears after the Resident Services building is constructed.",
+        "features": [
+          "Buys bugs at 1.5x the normal price.",
+          "Creates bug models upon request.",
+          "Special models (called 'Great Models') are made for the following bugs: Atlas Moth, Banded Dragonfly, Goliath Beetle, Queen Alexandra's Birdwing, Giraffe Stag, and Hercules Beetle."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "chy",
@@ -510,6 +734,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTuk.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Turkey",
     "versionAdded": "1.6.0",
     "npcId": "tuk",
     "internalId": 40,
@@ -519,6 +744,24 @@
     "iconFilename": "tuk",
     "photoFilename": "NpcSpTuk",
     "uniqueEntryId": "dFbRDi2FGNmHZvuRM",
+    "appearanceLocation": [
+      {
+        "place": "Event Plaza",
+        "time": {
+          "start": "09:00",
+          "end": "00:00"
+        },
+        "conditions": "Appears during the Thanksgiving event (Turkey Day) as the main NPC.",
+        "features": [
+          "Requests specific ingredients for course recipes, often requiring harder-to-find items.",
+          "Residents provide easier-to-obtain ingredients in exchange for help.",
+          "Upgraded course recipes can be unlocked by assisting residents.",
+          "Completing a course rewards a piece of Harvest furniture.",
+          "Completing all courses grants a set of course recipes.",
+          "Adding special ingredients to all dishes unlocks the full Harvest furniture recipe set."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "tuk",
@@ -546,6 +789,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpGrf.png",
     "gender": "Female",
     "genderAsia": "Male",
+    "species": "Giraffe",
     "versionAdded": null,
     "npcId": "grf",
     "internalId": 10,
@@ -555,6 +799,18 @@
     "iconFilename": "grf",
     "photoFilename": "NpcSpGrf",
     "uniqueEntryId": "chZz2xBGZBy2g9L8e",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "grf",
@@ -582,6 +838,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpKpg.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Kappa",
     "versionAdded": null,
     "npcId": "kpg",
     "internalId": 14,
@@ -591,6 +848,18 @@
     "iconFilename": "kpg",
     "photoFilename": "NpcSpKpg",
     "uniqueEntryId": "6Cj4smgBhJ7moa4JN",
+    "appearanceLocation": [
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Available as a customer after the 2.0 update or by inviting via amiibo."
+      },
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": null,
+        "conditions": "Can be invited using his amiibo."
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "kpg",
@@ -618,6 +887,7 @@
     "photoImage": null,
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Common gull",
     "versionAdded": "1.3.0",
     "npcId": "gulB",
     "internalId": 69,
@@ -627,6 +897,22 @@
     "iconFilename": "gulB",
     "photoFilename": null,
     "uniqueEntryId": "Qy6ZZFjpN2BNWP4gB",
+    "appearanceLocation": [
+      {
+        "place": "Random Beach Location",
+        "time": {
+          "start": "05:00",
+          "end": "05:00",
+          "nextDay": true
+        },
+        "conditions": "Appears after purchasing a wetsuit.",
+        "features": [
+          "Requests 1 communicator part found underwater.",
+          "Sends a pirate-themed gift via mail the next day after completing the request.",
+          "Recyclable parts like Rusted Parts can be found in the recycling box, similar to regular Gulliver."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "gulB",
@@ -654,6 +940,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpGul.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Common gull",
     "versionAdded": "1.0.0",
     "npcId": "gul",
     "internalId": 35,
@@ -663,6 +950,23 @@
     "iconFilename": "gul",
     "photoFilename": "NpcSpGul",
     "uniqueEntryId": "uf2Phk2T4fnoaqY2A",
+    "appearanceLocation": [
+      {
+        "place": "Random Beach Location",
+        "time": {
+          "start": "05:00",
+          "end": "05:00",
+          "nextDay": true
+        },
+        "conditions": "Appears after the Resident Services building is constructed.",
+        "features": [
+          "Requests 5 communicator parts found on the beach.",
+          "Sends a country-themed gift via mail the next day after completing the request.",
+          "Recyclable Rusted Parts can be found in the recycling box the day after helping.",
+          "After helping 30 times, provides the DIY recipe for the Golden Shovel."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "gul",
@@ -690,6 +994,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPoo.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Dog",
     "versionAdded": "2.0.0",
     "npcId": "poo",
     "internalId": 33,
@@ -699,6 +1004,22 @@
     "iconFilename": null,
     "photoFilename": "NpcSpPoo",
     "uniqueEntryId": "bRAwDjRF3s5EifuXo",
+    "appearanceLocation": [
+      {
+        "place": "Harv's Island Plaza",
+        "time": {
+          "start": "09:00",
+          "end": "21:00"
+        },
+        "conditions": "Available after Harv's Island Plaza is unlocked and her shop is funded.",
+        "features": [
+          "Teaches new hairstyles each time a new shop is funded in the plaza.",
+          "Provides hairstyling directly, without using a machine.",
+          "Unavailable during late-night hours.",
+          "After learning all hairstyles, stops offering services and spends leisure time with Harv, playing instruments or enjoying the campfire."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "poo",
@@ -726,6 +1047,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpSpn.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": "1.0.0",
     "npcId": "spn",
     "internalId": 58,
@@ -735,6 +1057,36 @@
     "iconFilename": "spn",
     "photoFilename": null,
     "uniqueEntryId": "XHGYT3WfbiboMAQHE",
+    "appearanceLocation": [
+      {
+        "place": "Photopia (Photo Studio)",
+        "time": {
+          "start": "00:00",
+          "end": "23:59"
+        },
+        "conditions": "Operates a photo studio on his private island.",
+        "features": [
+          "Allows players to place catalog items and arrange them freely for photo shoots.",
+          "Enables players to take photos with their villagers and amiibo-invited characters.",
+          "Adds posters of invited villagers to Nook Shopping after photographing them."
+        ]
+      },
+      {
+        "place": "Harv's Island Plaza",
+        "time": {
+          "start": "00:00",
+          "end": "23:59"
+        },
+        "conditions": "Available after the 2.0.0 update with a newly built campsite area on the right side of the photo studio.",
+        "features": [
+          "Hosts visitors from previous games and special event characters not included in the base game.",
+          "Allows players to invite visiting villagers to set up camper vans in designated areas.",
+          "Each area requires 100,000 Bells to fund before a camper van can be set up.",
+          "Only one area can be funded per day, and only one camper van can be established daily.",
+          "Encourages strategic funding to prioritize desired visitors first."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "spn",
@@ -762,6 +1114,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpSza.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Dog",
     "versionAdded": "1.0.0",
     "npcId": "sza",
     "internalId": 38,
@@ -771,6 +1124,21 @@
     "iconFilename": "sza",
     "photoFilename": "NpcSpSza",
     "uniqueEntryId": "ZgSyBa8uRm7uupcQw",
+    "appearanceLocation": [
+      {
+        "place": "Resident Services",
+        "time": {
+          "start": "00:00",
+          "end": "23:59"
+        },
+        "conditions": "Appears as a staff member after Resident Services is upgraded following the construction of Nook's Cranny and the completion of three new residents' homes.",
+        "features": [
+          "Acts as the assistant for Resident Services.",
+          "Provides island evaluation and other administrative support.",
+          "Announces special visitors on the island after the 2.0.0 update, reducing personal announcements."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "sza",
@@ -798,6 +1166,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPkn.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Jack-o'-lantern",
     "versionAdded": "1.5.0",
     "npcId": "pkn",
     "internalId": 57,
@@ -807,6 +1176,25 @@
     "iconFilename": "pkn",
     "photoFilename": "NpcSpPkn",
     "uniqueEntryId": "v8rBscHZN8BuL6vho",
+    "appearanceLocation": [
+      {
+        "place": "Island",
+        "time": {
+          "start": "17:00",
+          "end": "24:00"
+        },
+        "conditions": "Appears on October 31st during Halloween night after the Fall update.",
+        "features": [
+          "Gives Halloween furniture and recipes in exchange for candy.",
+          "Rewards 'Jack's Face' and 'Jack's Robe' for giving lollipops, which can be obtained by giving candy to villagers.",
+          "If candy is not given, transforms the player's appearance into a Halloween-themed look (skin, eyes, and face paint).",
+          "Wearing Jack's outfit and talking to villagers makes them mistake the player for Jack and give candy.",
+          "Prevents villagers from asking for candy if the player does not initiate interaction.",
+          "Unlike previous games, villagers no longer dress up as Jack, and Jack roams the island without teleporting.",
+          "Reacts positively to all reactions but especially enjoys 'Scare' and 'Ha!' reactions, even imitating or trembling at them."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "pkn",
@@ -834,6 +1222,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpRei.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Reindeer",
     "versionAdded": "1.6.0",
     "npcId": "rei",
     "internalId": 48,
@@ -870,6 +1259,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpBoa.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Wild boar",
     "versionAdded": null,
     "npcId": "boa",
     "internalId": 4,
@@ -906,6 +1296,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpTkkA.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dog",
     "versionAdded": "1.0.0",
     "npcId": "tkkA",
     "internalId": 8,
@@ -915,6 +1306,35 @@
     "iconFilename": "tkkA",
     "photoFilename": "NpcSpTkkA",
     "uniqueEntryId": "8kgdqqyBHHe7Cq8jm",
+    "appearanceLocation": [
+      {
+        "place": "Island Plaza",
+        "time": {
+          "start": "05:00",
+          "end": "23:59"
+        },
+        "conditions": "Appears after the island reaches a 3-star rating.",
+        "schedule": [
+          {
+            "day": "Saturday",
+            "note": "Regular schedule unless there is a competition."
+          },
+          {
+            "day": "Friday or Sunday",
+            "note": "Visits on these days if a competition occurs on Saturday."
+          },
+          {
+            "day": "Any day",
+            "note": "Appears for the Resident Representative's birthday party."
+          }
+        ],
+        "features": [
+          "Performs live concerts and accepts song requests.",
+          "Gives an album of the first requested song as a gift.",
+          "If the song title is entered incorrectly, performs a random song but allows re-requesting for the correct album."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "tkkA",
@@ -942,6 +1362,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpKpp.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Kappa",
     "versionAdded": "2.0.0",
     "npcId": "kpp",
     "internalId": 16,
@@ -978,6 +1399,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpLom.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Cat",
     "versionAdded": null,
     "npcId": "lom",
     "internalId": 46,
@@ -1014,6 +1436,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpBpt.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Puma",
     "versionAdded": "2.0.0",
     "npcId": "bpt",
     "internalId": 5,
@@ -1050,6 +1473,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpSkk.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Skunk",
     "versionAdded": "1.0.0",
     "npcId": "skk",
     "internalId": 37,
@@ -1059,6 +1483,20 @@
     "iconFilename": "skk",
     "photoFilename": "NpcSpSkk",
     "uniqueEntryId": "qmGXCtGtjukpiS8Fs",
+    "appearanceLocation": [
+      {
+        "place": "Island Plaza",
+        "time": {
+          "start": "05:00",
+          "end": "22:00"
+        },
+        "conditions": "Appears after the Able Sisters shop is constructed.",
+        "features": [
+          "Sells socks, shoes, and bags.",
+          "Bags are exclusive to Kicks and cannot be purchased elsewhere."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "skk",
@@ -1086,6 +1524,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpHgc.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Hedgehog",
     "versionAdded": "1.0.0",
     "npcId": "hgc",
     "internalId": 11,
@@ -1095,6 +1534,24 @@
     "iconFilename": "hgc",
     "photoFilename": "NpcSpHgc",
     "uniqueEntryId": "ueB44Z45DNkoQSZnL",
+    "appearanceLocation": [
+      {
+        "place": "Island Plaza",
+        "time": {
+          "start": "05:00",
+          "end": "22:00"
+        },
+        "conditions": "Appears after the Able Sisters shop is constructed.",
+        "features": [
+          "Provides a 'Fashion Check' quest where players must dress according to a given theme.",
+          "Themes include: Sports, Horror, Vacation (Beach, Mountain, River), Relaxation (Home), Outdoor (Hiking, Camping, Fishing), Stage (Idol, Comedian), Daily, Business (Chef, Doctor), Party, Formal (Graduation, Suit), and Fairy Tale (Fantasy, Storybook).",
+          "Evaluates the outfit in 3 levels: Best, Good, and Average.",
+          "Best: Requires 3 or more matching items and rewards 1 Label Brand item and 2 Able Sisters coupons.",
+          "Good: Requires 2 matching items and rewards 1 Label Brand item and 1 Able Sisters coupon.",
+          "Average: Requires 1 or fewer matching items and rewards 1 Able Sisters coupon."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "hgc",
@@ -1122,6 +1579,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpSlo.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Sloth",
     "versionAdded": "1.2.0",
     "npcId": "slo",
     "internalId": 43,
@@ -1131,6 +1589,20 @@
     "iconFilename": "slo",
     "photoFilename": "NpcSpSlo",
     "uniqueEntryId": "sK5zwmKLL8HNKZhYt",
+    "appearanceLocation": [
+      {
+        "place": "Island Plaza",
+        "time": {
+          "start": "05:00",
+          "end": "22:00"
+        },
+        "conditions": "Appears after the Resident Services building is constructed.",
+        "features": [
+          "Sells flower seeds and young saplings.",
+          "Buys weeds at 2x the normal price (20 Bells each)."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "slo",
@@ -1158,6 +1630,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpKps.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Kappa",
     "versionAdded": null,
     "npcId": "kps",
     "internalId": 17,
@@ -1194,6 +1667,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpKpm.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Kappa",
     "versionAdded": null,
     "npcId": "kpm",
     "internalId": 15,
@@ -1230,6 +1704,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpOtg.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Otter",
     "versionAdded": "2.0.0",
     "npcId": "otg",
     "internalId": 56,
@@ -1266,6 +1741,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTap.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Tapir",
     "versionAdded": "1.4.0",
     "npcId": "tap",
     "internalId": 45,
@@ -1302,6 +1778,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpOtt.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Otter",
     "versionAdded": null,
     "npcId": "ott",
     "internalId": 22,
@@ -1338,6 +1815,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpHgh.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Otter",
     "versionAdded": "1.0.0",
     "npcId": "hgh",
     "internalId": 12,
@@ -1374,6 +1852,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpChm.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Chameleon",
     "versionAdded": null,
     "npcId": "chm",
     "internalId": 6,
@@ -1410,6 +1889,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMnc.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Monkey",
     "versionAdded": "2.0.0",
     "npcId": "mnc",
     "internalId": 68,
@@ -1446,6 +1926,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpDod.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dodo",
     "versionAdded": "1.0.0",
     "npcId": "dod",
     "internalId": 62,
@@ -1482,6 +1963,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpSeo.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Sea otter",
     "versionAdded": "1.3.0",
     "npcId": "seo",
     "internalId": 36,
@@ -1491,6 +1973,18 @@
     "iconFilename": "seo",
     "photoFilename": "NpcSpSeo",
     "uniqueEntryId": "MgTEFSvyfd2mQFefo",
+    "appearanceLocation": [
+      {
+        "place": "Ocean",
+        "time": null,
+        "conditions": "Appears after purchasing a wetsuit and finding a scallop while diving.",
+        "features": [
+          "Requests the scallop when the player catches one.",
+          "In exchange, provides one of the following rewards: a Mermaid DIY recipe, a Mermaid-themed item, or a pearl.",
+          "Can only be encountered once per day."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "seo",
@@ -1518,6 +2012,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPck.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Peafowl",
     "versionAdded": "1.7.0",
     "npcId": "pck",
     "internalId": 25,
@@ -1554,6 +2049,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPlk.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Pelican",
     "versionAdded": null,
     "npcId": "plk",
     "internalId": 26,
@@ -1590,6 +2086,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPlo.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Pelican",
     "versionAdded": null,
     "npcId": "plo",
     "internalId": 31,
@@ -1626,6 +2123,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpFsl.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Japanese sea lion",
     "versionAdded": null,
     "npcId": "fsl",
     "internalId": 3,
@@ -1662,6 +2160,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPlm.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Pelican",
     "versionAdded": null,
     "npcId": "plm",
     "internalId": 27,
@@ -1698,6 +2197,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMnk.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Monkey",
     "versionAdded": null,
     "npcId": "mnk",
     "internalId": 19,
@@ -1734,6 +2234,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpFox.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Fox",
     "versionAdded": "1.2.0",
     "npcId": "fox",
     "internalId": 9,
@@ -1743,6 +2244,21 @@
     "iconFilename": "fox",
     "photoFilename": "NpcSpFox",
     "uniqueEntryId": "iRkXJeZqaWApHk92x",
+    "appearanceLocation": [
+      {
+        "place": "Secret Beach",
+        "time": {
+          "start": "05:00",
+          "end": "05:00",
+          "nextDay": true
+        },
+        "conditions": "Appears after donating 60 different items to the museum.",
+        "features": [
+          "Sells art pieces, some of which are genuine and others are fake.",
+          "Offers furniture in colors not available from Nook's Cranny."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "fox",
@@ -1770,6 +2286,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpAlw.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Alpaca",
     "versionAdded": "1.2.0",
     "npcId": "alw",
     "internalId": 1,
@@ -1806,6 +2323,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMol.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Mole",
     "versionAdded": null,
     "npcId": "mol",
     "internalId": 21,
@@ -1815,6 +2333,36 @@
     "iconFilename": "mol",
     "photoFilename": "NpcSpMol",
     "uniqueEntryId": "BMtksEYHbtBLC6aww",
+    "appearanceLocation": [
+      {
+        "place": "Emergency Escape Service",
+        "time": null,
+        "conditions": "Appears as the operator of the Emergency Escape Service when the player is stuck or lost.",
+        "features": [
+          "Charges 100 Nook Miles for the service.",
+          "If called without sufficient Nook Miles, the service is provided for free but the destination is random.",
+          "Players can avoid using the service by restarting, which costs no Nook Miles but involves loading time."
+        ]
+      },
+      {
+        "place": "The Roost (Café)",
+        "time": null,
+        "conditions": "Visible after the 2.0 update.",
+        "features": [
+          "Shares a gentler personality compared to previous games.",
+          "Mentions reduced stress due to changes in work conditions.",
+          "Reflects on life and the concept of a 'reset button.'"
+        ]
+      },
+      {
+        "place": "Happy Home Paradise",
+        "time": null,
+        "conditions": "Available as a client to design a home.",
+        "features": [
+          "Rejects house sharing due to previous experiences living with his brother, Don Resetti."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "mol",
@@ -1842,6 +2390,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpXct.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Cat",
     "versionAdded": "1.2.0",
     "npcId": "xct",
     "internalId": 42,
@@ -1878,6 +2427,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpHgs.png",
     "gender": "Female",
     "genderAsia": "Female",
+    "species": "Hedgehog",
     "versionAdded": "1.0.0",
     "npcId": "hgs",
     "internalId": 13,
@@ -1887,6 +2437,20 @@
     "iconFilename": "hgs",
     "photoFilename": "NpcSpHgs",
     "uniqueEntryId": "WQnJq8BHMee2XKQ2i",
+    "appearanceLocation": [
+      {
+        "place": "Able Sisters Shop",
+        "time": {
+          "start": "05:00",
+          "end": "21:00"
+        },
+        "conditions": "Appears after the Able Sisters shop is constructed.",
+        "features": [
+          "Players can talk to her daily to build a friendship.",
+          "After becoming friends, provides 10 unique patterns for furniture customization."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "hgs",
@@ -1914,6 +2478,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpCml.png",
     "gender": "Female",
     "genderAsia": "Male",
+    "species": "Camel",
     "versionAdded": "1.0.0",
     "npcId": "cml",
     "internalId": 7,
@@ -1923,6 +2488,22 @@
     "iconFilename": "cml",
     "photoFilename": "NpcSpCml",
     "uniqueEntryId": "x753Z7JdmLFZRCwGr",
+    "appearanceLocation": [
+      {
+        "place": "Random Outdoor Location",
+        "time": {
+          "start": "05:00",
+          "end": "05:00",
+          "nextDay": true
+        },
+        "conditions": "Appears after the Resident Services building is constructed.",
+        "features": [
+          "Sells mysterious wallpaper, mysterious flooring, and rugs.",
+          "Wallpaper and flooring can only be purchased once per visit.",
+          "Rug purchases grant exchange tickets, and collecting 5 tickets allows players to exchange for either a wallpaper or flooring."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "cml",
@@ -1950,6 +2531,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpUpa.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Axolotl",
     "versionAdded": null,
     "npcId": "upa",
     "internalId": 41,
@@ -1986,6 +2568,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpRcm.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Japanese raccoon dog",
     "versionAdded": "1.0.0",
     "npcId": "rcm",
     "internalId": 52,
@@ -2022,6 +2605,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpRco.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Japanese raccoon dog",
     "versionAdded": "1.0.0",
     "npcId": "rco",
     "internalId": 34,
@@ -2058,6 +2642,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpRct.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Japanese raccoon dog",
     "versionAdded": "1.0.0",
     "npcId": "rct",
     "internalId": 51,
@@ -2094,6 +2679,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTtlA.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Tortoise",
     "versionAdded": "2.0.0",
     "npcId": "ttlA",
     "internalId": 39,
@@ -2130,6 +2716,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpMan.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Manatee",
     "versionAdded": "2.0.0",
     "npcId": "man",
     "internalId": 67,
@@ -2166,6 +2753,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpWrl.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Walrus",
     "versionAdded": null,
     "npcId": "wrl",
     "internalId": 50,
@@ -2202,6 +2790,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpDoc.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Dodo",
     "versionAdded": "1.0.0",
     "npcId": "doc",
     "internalId": 66,
@@ -2238,6 +2827,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpGst.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Ghost",
     "versionAdded": "1.0.0",
     "npcId": "gstA",
     "internalId": 55,
@@ -2247,6 +2837,20 @@
     "iconFilename": "gstA",
     "photoFilename": null,
     "uniqueEntryId": "SnDQ7nvg5wHmjY6Fg",
+    "appearanceLocation": [
+      {
+        "place": "Upper Levels (2nd tier or higher)",
+        "time": {
+          "start": "20:00",
+          "end": "04:00"
+        },
+        "conditions": null,
+        "features": [
+          "Requests the player to collect 5 spirit pieces scattered around the island.",
+          "Rewards the player with either a 'something expensive' item (random furniture) or 'something new' item (any furniture)."
+        ]
+      }
+    ],
     "translations": {
       "sourceSheet": "Special NPCs",
       "id": "gstA",
@@ -2274,6 +2878,7 @@
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPyn.png",
     "gender": "Male",
     "genderAsia": "Male",
+    "species": "Unknown",
     "versionAdded": "1.1.0",
     "npcId": "pyn",
     "internalId": 47,
