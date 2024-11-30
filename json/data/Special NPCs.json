@@ -67,7 +67,7 @@
     "uniqueEntryId": "LXqTqy94M9Yt7yaAb",
     "appearanceLocation": [
       {
-        "place": "Museum",
+        "place": "Inside a museum building",
         "time": {
           "start": "00:00",
           "end": "23:59"
@@ -1975,7 +1975,7 @@
     "uniqueEntryId": "MgTEFSvyfd2mQFefo",
     "appearanceLocation": [
       {
-        "place": "Ocean",
+        "place": "Somewhere in the ocean",
         "time": null,
         "conditions": "Appears after purchasing a wetsuit and finding a scallop while diving.",
         "features": [
@@ -2351,7 +2351,7 @@
         "features": [
           "Shares a gentler personality compared to previous games.",
           "Mentions reduced stress due to changes in work conditions.",
-          "Reflects on life and the concept of a 'reset button.'"
+          "Reflects on life and the concept of a reset button."
         ]
       },
       {
