@@ -84,8 +84,7 @@
       "plural": false
     },
     "colors": [ "Brown", "Aqua" ],
-    "recipe": null,
-    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Aloha.mp3"
+    "recipe": null
   },
   {
     "sourceSheet": "Music",
@@ -126,8 +125,7 @@
       "plural": false
     },
     "colors": [ "Brown" ],
-    "recipe": null,
-    "musicURL": "https://raw.githubusercontent.com/leeari95/animal-crossing/master/music/mjk_Animal_City.mp3"
+    "recipe": null
   },
   {
     "sourceSheet": "Music",
