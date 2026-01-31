@@ -3519,7 +3519,7 @@
     "gender": "Free",
     "villagerGender": "Free",
     "villagerEquippable": true,
-    "catalog": "Not for sale",
+    "catalog": "For sale",
     "versionAdded": "3.0.0",
     "unlocked": true,
     "filename": "UmbrellaHotel0",
