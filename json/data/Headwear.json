@@ -57020,7 +57020,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "exchangePrice": 8,
-    "exchangeCurrency": null,
+    "exchangeCurrency": "Hotel Tickets",
     "source": [ "Hotel Souvenir Shop" ],
     "sourceNotes": null,
     "seasonEvent": null,
