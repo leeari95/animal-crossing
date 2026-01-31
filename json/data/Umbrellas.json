@@ -3511,7 +3511,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "exchangePrice": 15,
-    "exchangeCurrency": "Hotel Tickets",
+    "exchangeCurrency": null,
     "source": [ "Hotel Souvenir Shop" ],
     "sourceNotes": null,
     "seasonEvent": null,
