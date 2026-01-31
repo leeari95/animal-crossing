@@ -3520,5 +3520,122 @@
         "modifier": "Complete"
       }
     }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "DIY Goods Wanted!",
+    "achievementDescription": "We're collecting DIY goods to promote the island! Please drop the requested items in the box by the pier. Rewards and miles await, yes, yes!",
+    "achievementCriteria": null,
+    "num": 84,
+    "internalId": 110,
+    "internalName": "DIYTrade",
+    "internalCategory": "Hotel",
+    "numOfTiers": 5,
+    "sequential": true,
+    "versionAdded": "3.0.0",
+    "uniqueEntryId": "fm2TBeWL5PKZ9xrnm",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": 5,
+        "reward": 300,
+        "nouns": [ "DIY Fanatic" ],
+        "modifier": "Incoming"
+      },
+      "2": {
+        "required": 50,
+        "reward": 500,
+        "nouns": [ "Craftsperson" ],
+        "modifier": "Returning"
+      },
+      "3": {
+        "required": 150,
+        "reward": 1000,
+        "nouns": [ "DIY Creator" ],
+        "modifier": "Pensive"
+      },
+      "4": {
+        "required": 300,
+        "reward": 2000,
+        "nouns": [ "Go-Getter", "Overseer" ],
+        "modifier": "Upbeat"
+      },
+      "5": {
+        "required": 500,
+        "reward": 3000,
+        "nouns": [ "Artificer" ],
+        "modifier": "Smooth-Sailing"
+      }
+    }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Decorate a Hotel Room",
+    "achievementDescription": "The island hotel is looking for folks who can help decorate the guest rooms. You'll earn miles based on how many days you help. Lend a hand, and make our guests feel welcome!",
+    "achievementCriteria": null,
+    "num": 82,
+    "internalId": 112,
+    "internalName": "CoordinateHotelRoom",
+    "internalCategory": "Hotel",
+    "numOfTiers": 3,
+    "sequential": true,
+    "versionAdded": "3.0.0",
+    "uniqueEntryId": "ZeqAKaaynQ7Agj7pJ",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": 1,
+        "reward": 300,
+        "nouns": [ "Organizer" ],
+        "modifier": "Chill"
+      },
+      "2": {
+        "required": 5,
+        "reward": 1000,
+        "nouns": [ "Interior Designer" ],
+        "modifier": "Forward-Thinking"
+      },
+      "3": {
+        "required": 20,
+        "reward": 2000,
+        "nouns": [ "Visionary" ],
+        "modifier": "Cutting-Edge"
+      }
+    }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Take Tourists to the Hotel",
+    "achievementDescription": "Sometimes tourists visit the island without booking a room. If you'd be so kind as to take them to our hotel, we'll give you some miles as a thank-you!",
+    "achievementCriteria": null,
+    "num": 83,
+    "internalId": 111,
+    "internalName": "GuideNoRoomNPC",
+    "internalCategory": "Hotel",
+    "numOfTiers": 3,
+    "sequential": true,
+    "versionAdded": "3.0.0",
+    "uniqueEntryId": "JeDb29cZbtCvRKXde",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": 1,
+        "reward": 500,
+        "nouns": [ "Guide" ],
+        "modifier": "Sincere"
+      },
+      "2": {
+        "required": 5,
+        "reward": 1000,
+        "nouns": [ "Navigator" ],
+        "modifier": "Caring"
+      },
+      "3": {
+        "required": 10,
+        "reward": 2000,
+        "nouns": [ "Concierge" ],
+        "modifier": "Charming"
+      }
+    }
   }
 ]
